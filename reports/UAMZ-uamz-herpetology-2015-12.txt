@@ -1,0 +1,88 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 117
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: United States ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 2
+	Date: 2015-12-16 ; Times: 1
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-15 ; Times: 2
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Coluber British Columbia" ; Times: 2
+	Query: "mink frog" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Pelamis stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Rana catesbeianus" ; Times: 1
+	Query: "cofre de perote" ; Times: 1
+	Query: "Crotalus pricei and Arizona" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 33 (out of 889 download events in this period)
+Total number of records downloaded: 2196
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 10
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-17 ; Times: 11
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-24 ; Times: 1
+	Date: 2015-12-27 ; Times: 1
+	Date: 2015-12-18 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 5
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "Lampropeltis getulus" ; Times: 1
+	Query: "order:Anura stateprovince:&#34;Guerrero&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "Bufo boreas" ; Times: 1
+	Query: "cane toad" ; Times: 3
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "spea" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix mappable:1" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "Gehyra" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "scaphiopus" ; Times: 1
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "Lampropeltis getula" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "Sceloporus undulatus" ; Times: 1
+
+
+End of report.
