@@ -1,0 +1,142 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Dominican Republic ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-04 ; Times: 5
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-01 ; Times: 2
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-02 ; Times: 2
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 5
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-29 ; Times: 1
+	Date: 2015-10-28 ; Times: 1
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "ommatotriton" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Bolitoglossa rufescens stateprovince:Chiapas" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "class:amphibia distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "gbifdatasetid:88d7437e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "painted turtle" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo country:MEXICO" ; Times: 1
+	Query: "Poecile (skel OR skeleton) sex:female" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "Hypsiboas heilprini" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "calotriton" ; Times: 1
+	Query: "lacerta muralis" ; Times: 1
+	Query: "preparations:skull genus:iguana specificepithet:iguana" ; Times: 1
+	Query: "great auk" ; Times: 1
+	Query: "genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "hypsiboas heilprini" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 823 download events in this period)
+Total number of records downloaded: 527
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 31
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 3
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-07 ; Times: 2
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 1
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-02 ; Times: 5
+	Date: 2015-10-11 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-03 ; Times: 1
+	Date: 2015-10-29 ; Times: 2
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-27 ; Times: 3
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-23 ; Times: 3
+	Date: 2015-10-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "Trachemys scripta (skel OR skeleton)" ; Times: 1
+	Query: "class:amphibia distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "cane toad" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "genus:Chilomeniscus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "elgaria kingii" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 2
+	Query: "xenopus laevis" ; Times: 1
+	Query: "elapidae mexico" ; Times: 1
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "class:reptilia distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "thamnophis radix" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "(Rana pipiens) canada mappable:1" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen mappable:1" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "phyllomedusa hypochondrialis" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+
+
+End of report.
