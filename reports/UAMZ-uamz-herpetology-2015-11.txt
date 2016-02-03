@@ -1,0 +1,114 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 132
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 18
+	Country: Netherlands ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-27 ; Times: 6
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-24 ; Times: 2
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-13 ; Times: 4
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Crotalus pricei&#34;" ; Times: 2
+	Query: "Leiopelma type:specimen" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "Rana clamitans stateprovince:&#34;Minnesota&#34;" ; Times: 3
+	Query: "calyptocephalella gayi" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "Bolitoglossa rufescens stateprovince:Chiapas" ; Times: 1
+	Query: "Mudpuppy" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "coast horned lizard california" ; Times: 1
+	Query: "coast horned lizard" ; Times: 1
+	Query: "Rana clamitans stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "eastern massasauga" ; Times: 1
+	Query: "institutioncode:UAMZ" ; Times: 1
+	Query: "&#34;Crotalus pricei&#34; and Arizona" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 751 download events in this period)
+Total number of records downloaded: 5023
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Belgium ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-04 ; Times: 1
+	Date: 2015-11-30 ; Times: 7
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-18 ; Times: 2
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-10 ; Times: 2
+	Date: 2015-11-11 ; Times: 5
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-20 ; Times: 5
+	Date: 2015-11-07 ; Times: 1
+	Date: 2015-11-17 ; Times: 2
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 7
+	Query: "Chilomeniscus cinctus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "type:specimen order:Testudines stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "genus:Hyla country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "gyrinophilus porphyriticus" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "genus:Crotalus" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Sistrurus miliarius type:specimen mappable:1" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "Notophthalmus" ; Times: 1
+	Query: "elgaria" ; Times: 1
+	Query: "Testudines" ; Times: 1
+	Query: "Rana clamitans" ; Times: 1
+	Query: "Farancia abacura class:Reptilia mappable:1" ; Times: 1
+	Query: "&#34;laticauda colubrina&#34; mappable:1" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 2
+	Query: "madagascar" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "institutioncode:UAMZ" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "family:Kinosternidae order:Testudines stateprovince:&#34;Texas&#34; AND (-Terrapene) mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+
+
+End of report.
