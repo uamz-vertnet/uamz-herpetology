@@ -1,0 +1,167 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 37
+Number of records retrieved in searches: 182
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 3
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-18 ; Times: 3
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-14 ; Times: 2
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 10
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bullsnake" ; Times: 1
+	Query: "Pinguinus impennis type:specimen" ; Times: 2
+	Query: "&#34;B***&#34; &#34;americanus&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "cystignathoides" ; Times: 1
+	Query: "strix nebulosa" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:americanus genus:Bufo" ; Times: 1
+	Query: "Hyla vasta" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "Pinguinus impennis" ; Times: 8
+	Query: "bombifrons AND Canada" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "Osteopilus vastus" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "Lepidophyma flavomaculatum" ; Times: 1
+	Query: "perdix (skel OR skeleton)" ; Times: 1
+	Query: "short horned lizard" ; Times: 1
+	Query: "B4481" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "hypsiboas heilprini" ; Times: 2
+	Query: "Bufo americanus stateprovince:&#34;Texas&#34;" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 1045 download events in this period)
+Total number of records downloaded: 3355
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 5
+	Country: United States ; Times: 45
+	Country: Colombia ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Hong Kong ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 2
+	Date: 2015-09-16 ; Times: 5
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 4
+	Date: 2015-09-19 ; Times: 5
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-02 ; Times: 4
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 2
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-28 ; Times: 2
+	Date: 2015-09-01 ; Times: 10
+	Date: 2015-09-25 ; Times: 6
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-27 ; Times: 2
+	Date: 2015-09-22 ; Times: 10
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus jarrovi" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "rana catesbeiana" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "grammicus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; specificepithet:americanus genus:Bufo" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 2
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Spea" ; Times: 2
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Necturus" ; Times: 1
+	Query: "Rana pipiens" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "genus:Hemidactylus" ; Times: 1
+	Query: "bombifrons AND Canada" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Spea type:specimen" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 3
+	Query: "pseudacris maculata" ; Times: 1
+	Query: "Elaphe obsoleta" ; Times: 2
+	Query: "Phrynosoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "Lepidodactylus" ; Times: 1
+	Query: "common yellowthroat" ; Times: 1
+	Query: "Scaphiopus" ; Times: 3
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "ascaphus" ; Times: 2
+	Query: "phrynosoma" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Chrysemys" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "Python molurus" ; Times: 2
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "Microtus pennsylvanicus" ; Times: 1
+
+
+End of report.
