@@ -1,0 +1,99 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 122
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Switzerland ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-23 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-18 ; Times: 3
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-02 ; Times: 1
+	Date: 2016-02-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bufo boreas stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "coast horned lizard" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "hellbender" ; Times: 1
+	Query: "family:Plethodontidae institutioncode:UAMZ" ; Times: 1
+	Query: "canadian lynx" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; recordedby:WALKER" ; Times: 1
+	Query: "bufo boreas stateprovince:&#34;Colorado&#34; (Colorado)" ; Times: 1
+	Query: "california giant salamander" ; Times: 1
+	Query: "phrynohyas venulosa oaxaca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 512 download events in this period)
+Total number of records downloaded: 654
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 24
+	Country: Spain ; Times: 4
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-14 ; Times: 4
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-23 ; Times: 5
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 1
+	Date: 2016-02-26 ; Times: 11
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-07 ; Times: 2
+	Date: 2016-02-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "plectrohyla matudai" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "class:reptilia mappable:1 stateprovince:Oregon" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;alaska&#34; mappable:1" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Nevada" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "Ambystoma macrodactylum mappable:1" ; Times: 1
+	Query: "notophthalmus viridescens mappable:1" ; Times: 1
+	Query: "Pseudacris ornata" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "class:amphibia mappable:1 stateprovince:California" ; Times: 3
+	Query: "class:reptilia mappable:1 stateprovince:California" ; Times: 5
+	Query: "spotted salamander" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "lepidophyma" ; Times: 1
+	Query: "anolis mappable:1" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "genus:Scaphiopus specificepithet:holbrookii" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:Washington" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 2
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
