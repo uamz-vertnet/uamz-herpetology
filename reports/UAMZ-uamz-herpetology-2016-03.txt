@@ -1,0 +1,53 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 6
+Number of records retrieved in searches: 12
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-01 ; Times: 1
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lithobates catesbeiana" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "genus:conraua specificepithet:goliath" ; Times: 1
+	Query: "Plectrohyla matudai Chiapas" ; Times: 1
+	Query: "Plectrohyla Chiapas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 230 download events in this period)
+Total number of records downloaded: 104
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+
+
+End of report.
