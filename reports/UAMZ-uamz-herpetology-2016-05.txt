@@ -1,0 +1,88 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 157
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-05 ; Times: 3
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-22 ; Times: 3
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-31 ; Times: 3
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hognose" ; Times: 1
+	Query: "lithobates catesbeiana" ; Times: 1
+	Query: "Rubber Boa" ; Times: 3
+	Query: "fox snake" ; Times: 1
+	Query: "Arboreal salamander" ; Times: 2
+	Query: "western chorus frog" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Lissotriton specificepithet:vulgaris" ; Times: 1
+	Query: "Phrynosoma douglas" ; Times: 1
+	Query: "Anguis" ; Times: 1
+	Query: "California giant salamander" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Montana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Montana&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 327 download events in this period)
+Total number of records downloaded: 316
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 2
+	Country: Philippines ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 2
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 4
+	Date: 2016-05-07 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 12
+	Date: 2016-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "fowleri specificepithet:fowleri class:Amphibia" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Anguis" ; Times: 2
+	Query: "elapidae mappable:1" ; Times: 1
+	Query: "spea bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Iguanidae type:specimen (skeleton)" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "python molurus" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "Dicamptodon" ; Times: 1
+	Query: "leptophis diplotropis" ; Times: 1
+	Query: "class:reptilia country:&#34;philippines&#34;" ; Times: 1
+	Query: "Eurycea" ; Times: 1
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
