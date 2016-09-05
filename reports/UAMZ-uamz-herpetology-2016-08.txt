@@ -1,0 +1,99 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 287
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 14
+	Country: Mexico ; Times: 2
+	Country: United Arab Emirates ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: Germany ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-24 ; Times: 5
+	Date: 2016-08-26 ; Times: 5
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-22 ; Times: 3
+	Date: 2016-08-30 ; Times: 8
+	Date: 2016-08-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen specificepithet:constrictor genus:Boa" ; Times: 2
+	Query: "Pseudacris triseriata country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "varanus institutioncode:uamz" ; Times: 1
+	Query: "Anaxyrus hemiophrys country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "hognose snake" ; Times: 3
+	Query: "family:Plethodontidae stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "genus:Ichthyosaura specificepithet:alpestris" ; Times: 3
+	Query: "type:specimen specificepithet:constrictor genus:Boa mappable:1" ; Times: 2
+	Query: "Eleutherodactylus mexicanus" ; Times: 3
+	Query: "rosy boa" ; Times: 2
+	Query: "specificepithet:Hemidactylus frenatus genus:Hemidactylus family:Gekkonidae country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 2
+	Query: "Craugastor mexicanus" ; Times: 7
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "institutioncode:uamz" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 924 download events in this period)
+Total number of records downloaded: 4807
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-29 ; Times: 1
+	Date: 2016-08-28 ; Times: 2
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-24 ; Times: 3
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 1
+	Date: 2016-08-21 ; Times: 3
+	Date: 2016-08-30 ; Times: 5
+	Date: 2016-08-22 ; Times: 6
+	Date: 2016-08-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anaxyrus americanus country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Ambystoma tigrinum country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "type:specimen (anaxyrus)" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "Notophthalmus viridescens country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Rana boylii" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 1
+	Query: "type:specimen (anaxyrus bufo)" ; Times: 1
+	Query: "bufo cognatus new mexico" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Ambystoma tigrinum tigrinum AND (NOT mavortium) mappable:1" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "phrynosoma" ; Times: 1
+	Query: "Anaxyrus hemiophrys country:&#34;Canada&#34; mappable:1" ; Times: 1
+	Query: "Lithobates sylvaticus" ; Times: 1
+
+
+End of report.
