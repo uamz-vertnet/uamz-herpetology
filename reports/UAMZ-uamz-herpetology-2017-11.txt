@@ -1,0 +1,47 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sistrurus catenatus catenatus specificepithet:catenatus genus:sistrurus (ontario ) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "California giant salamander" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1101 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-26 ; Times: 1
+	Date: 2017-11-27 ; Times: 3
+	Date: 2017-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
