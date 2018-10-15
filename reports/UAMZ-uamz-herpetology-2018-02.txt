@@ -1,0 +1,147 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 118
+Number of records retrieved in searches: 884
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 42
+	Country: Portugal ; Times: 15
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 46
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 5
+	Date: 2018-02-16 ; Times: 5
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-25 ; Times: 1
+	Date: 2018-02-11 ; Times: 1
+	Date: 2018-02-27 ; Times: 48
+	Date: 2018-02-13 ; Times: 5
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-26 ; Times: 10
+	Date: 2018-02-18 ; Times: 4
+	Date: 2018-02-19 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-22 ; Times: 8
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-20 ; Times: 16
+	Date: 2018-02-05 ; Times: 2
+	Date: 2018-02-24 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudis paradoxa" ; Times: 1
+	Query: "scientificname:&#34;gavialis gangeticus&#34;" ; Times: 1
+	Query: "genus:Calyptocephalella specificepithet:gayi" ; Times: 2
+	Query: "A2220" ; Times: 1
+	Query: "Caudiverbera vntype:specimen" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 5
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "(Ablepharus) hastissue:1" ; Times: 1
+	Query: "anaxyrus hemiophrys" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 2
+	Query: "Rana septentrionalis" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "Ceratophrys calcarata" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 4
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "lithobates catesbeianus Rana catesbeiana hastissue:1" ; Times: 1
+	Query: "Chrysemys scripta mappable:1" ; Times: 4
+	Query: "Caudiverbera" ; Times: 1
+	Query: "paramesotriton" ; Times: 3
+	Query: "syrrhophus cystignathoides" ; Times: 1
+	Query: "amphisbaena alba" ; Times: 1
+	Query: "genus:Anolis country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "suborder serpentes" ; Times: 1
+	Query: "specificepithet:aeneus genus:aneides hastissue:1" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "western chorus frog" ; Times: 5
+	Query: "Trionyx ferox mappable:1" ; Times: 9
+	Query: "northern pike" ; Times: 1
+	Query: "Western toad" ; Times: 1
+	Query: "african bullfrog" ; Times: 2
+	Query: "&#34;insculpta&#34; hastissue:1" ; Times: 34
+	Query: "Anaxyrus boreas western toad" ; Times: 1
+	Query: "crotalus pricei" ; Times: 6
+	Query: "B-1357" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: "Calyptocephalella vntype:specimen" ; Times: 3
+	Query: "specificepithet:ventralis genus:Ophisaurus hastissue:1" ; Times: 2
+	Query: "&#34;Rana catesbeiana&#34; &#34;Lithobates catesbeianus&#34; hastissue:1" ; Times: 1
+	Query: "tiger salamander" ; Times: 2
+	Query: "locality:beaverhill stateprovince:&#34;alberta&#34;" ; Times: 2
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "Lithobates catesbeianus mappable:1" ; Times: 2
+	Query: "specificepithet:Sistrurus" ; Times: 1
+	Query: "&#34;northern pike&#34;" ; Times: 1
+	Query: "Crotalus Mohave county" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1892 download events in this period)
+Total number of records downloaded: 291
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-25 ; Times: 2
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-03 ; Times: 5
+	Date: 2018-02-02 ; Times: 4
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+	Date: 2018-02-05 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "genus:andrias" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "taricha granulosa" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "ambystoma gracile" ; Times: 1
+	Query: "pseudacris ornata" ; Times: 1
+	Query: "ambystoma jeffersonianum" ; Times: 1
+	Query: "plethodon" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "eurycea bislineata" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "genus:Atelopus specificepithet:varius" ; Times: 1
+	Query: "notophthalmus viridescens" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Taricha torosa torosa stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+
+
+End of report.
