@@ -1,0 +1,170 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 107
+Number of records retrieved in searches: 312
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 75
+	Country: Canada ; Times: 9
+	Country: South Korea ; Times: 1
+	Country: Mexico ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 4
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-31 ; Times: 4
+	Date: 2018-01-30 ; Times: 2
+	Date: 2018-01-10 ; Times: 2
+	Date: 2018-01-13 ; Times: 2
+	Date: 2018-01-15 ; Times: 6
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 11
+	Date: 2018-01-25 ; Times: 3
+	Date: 2018-01-08 ; Times: 10
+	Date: 2018-01-29 ; Times: 19
+	Date: 2018-01-24 ; Times: 10
+	Date: 2018-01-03 ; Times: 3
+	Date: 2018-01-26 ; Times: 2
+	Date: 2018-01-27 ; Times: 1
+	Date: 2018-01-20 ; Times: 2
+	Date: 2018-01-21 ; Times: 2
+	Date: 2018-01-04 ; Times: 1
+	Date: 2018-01-05 ; Times: 3
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-23 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:Pseudacris triseriata hastissue:1" ; Times: 3
+	Query: "Pseudacris maculata hastissue:1" ; Times: 2
+	Query: "specificepithet:aeneus genus:Aneides hastissue:1" ; Times: 4
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Calyptocephalella gayi hassex:1" ; Times: 6
+	Query: "genus:Bolitoglossa specificepithet:platydactyla" ; Times: 1
+	Query: "genus:Pelamis hastissue:1" ; Times: 2
+	Query: "genus:Ophisaurus family:Anguidae class:Reptilia continent:North America hastissue:1" ; Times: 1
+	Query: "Lampropeltis triangulum" ; Times: 1
+	Query: "gastrophryne olivacea texas" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "Coniophanes fissidens" ; Times: 2
+	Query: "specificepithet:platurus genus:Pelamis country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Western chorus frog" ; Times: 1
+	Query: "sheep frog" ; Times: 1
+	Query: "Rana boyle" ; Times: 1
+	Query: "genus:boa year &lt;= 1950" ; Times: 1
+	Query: "genus:Macroclemys year &gt;= 1940 year &lt;= 1970" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 2
+	Query: "sceloporus undulatus alabama" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 2
+	Query: "specificepithet:ochrophaeus genus:Desmognathus hastissue:1" ; Times: 1
+	Query: "bufo marinus stateprovince:&#34;hawaii&#34; mappable:1" ; Times: 1
+	Query: "bufo marinus specificepithet:marinus genus:bufo stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 1
+	Query: "genus:boa year &lt;= 1925" ; Times: 1
+	Query: "sphenodon punctatus" ; Times: 2
+	Query: "genus:Gehyra stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Phrynosoma hernandesi mappable:1" ; Times: 1
+	Query: "genus:Anolis country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "Eva Lake" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "specificepithet:Marinus genus:Bufo stateprovince:&#34;Hawaii&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Ninia diademata" ; Times: 2
+	Query: "Ball python" ; Times: 2
+	Query: "gerrhonotus" ; Times: 1
+	Query: "genus:heterodon platyrhinos stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "great plains toad" ; Times: 1
+	Query: "emys blandingi" ; Times: 1
+	Query: "specificepithet:Pseudacris triseriata maculata hastissue:1" ; Times: 1
+	Query: "Eleutherodactylus pipilans" ; Times: 2
+	Query: "Leiopelma hochstetteri" ; Times: 8
+	Query: "genus:crotalus country:&#34;mexico&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 13
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "genus:Pelamis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:storeria country:&#34;mexico&#34;" ; Times: 1
+	Query: "Syrrhophus" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "Adelphicos veraepacis" ; Times: 2
+	Query: "Aneides aeneus stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "&#34;Boreal chorus frog&#34; hastissue:1" ; Times: 2
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "genus:Craugastor specificepithet:mexicanus" ; Times: 2
+	Query: "arizona toad" ; Times: 2
+	Query: "Bufo marinus stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 1398 download events in this period)
+Total number of records downloaded: 1048
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Canada ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: Colombia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 2
+	Date: 2018-01-09 ; Times: 1
+	Date: 2018-01-29 ; Times: 24
+	Date: 2018-01-25 ; Times: 8
+	Date: 2018-01-13 ; Times: 3
+	Date: 2018-01-12 ; Times: 2
+	Date: 2018-01-15 ; Times: 4
+	Date: 2018-01-14 ; Times: 2
+	Date: 2018-01-17 ; Times: 1
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-30 ; Times: 4
+	Date: 2018-01-22 ; Times: 1
+	Date: 2018-01-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Rana boylii" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "spea intermontana" ; Times: 1
+	Query: "oophaga histrionica" ; Times: 2
+	Query: "Ensatina" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Rana pipiens vntype:specimen" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "bufo marinus specificepithet:marinus genus:bufo stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 1
+	Query: "litoria caerulea" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "bufo marinus stateprovince:&#34;hawaii&#34; mappable:1" ; Times: 3
+	Query: "specificepithet:aeneus genus:Aneides hastissue:1" ; Times: 1
+	Query: "Phrynosoma hernandesi mappable:1" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 18
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "specificepithet:aeneus genus:Aneides" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "stateprovince:mississippi class:amphibia" ; Times: 1
+	Query: "Aneides aeneus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Smilisca country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Atelopus varius" ; Times: 2
+	Query: "specificepithet:punctatus genus:Diadophis" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+	Query: "specificepithet:Marinus genus:Bufo stateprovince:&#34;Hawaii&#34; country:&#34;United States&#34; mappable:1" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Bufo marinus stateprovince:&#34;Hawaii&#34; mappable:1" ; Times: 2
+	Query: "(PHRYNOSOMATIDAE) basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+
+
+End of report.
