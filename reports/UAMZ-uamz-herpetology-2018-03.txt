@@ -1,0 +1,159 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 1098
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 169
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 4
+	Date: 2018-03-06 ; Times: 6
+	Date: 2018-03-29 ; Times: 6
+	Date: 2018-03-16 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 7
+	Date: 2018-03-10 ; Times: 1
+	Date: 2018-03-31 ; Times: 5
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-01 ; Times: 2
+	Date: 2018-03-02 ; Times: 12
+	Date: 2018-03-03 ; Times: 5
+	Date: 2018-03-05 ; Times: 13
+	Date: 2018-03-28 ; Times: 12
+	Date: 2018-03-07 ; Times: 8
+	Date: 2018-03-26 ; Times: 43
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-24 ; Times: 1
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 6
+	Date: 2018-03-20 ; Times: 12
+	Date: 2018-03-21 ; Times: 10
+	Date: 2018-03-27 ; Times: 25
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phyllobates specificepithet:bicolor" ; Times: 5
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 6
+	Query: "genus:Tarentola  specificepithet:mauritanica " ; Times: 3
+	Query: "vntype:specimen order:Anura institutioncode:UAMZ" ; Times: 1
+	Query: "Vipera hastissue:1" ; Times: 2
+	Query: "genus:Sphenodon specificepithet:punctatus" ; Times: 5
+	Query: "eumeces dicei" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 4
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "(Ablepharus) hastissue:1" ; Times: 2
+	Query: "specificepithet:Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Phyllobates bicolor" ; Times: 2
+	Query: "genus:Masticophis specificepithet:bilineatus" ; Times: 5
+	Query: "genus:Acris specificepithet:gryllus" ; Times: 2
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 5
+	Query: "genus:Calyptocephalella specificepithet:gayi" ; Times: 5
+	Query: "specificepithet:mexicanus genus:Craugastor" ; Times: 1
+	Query: "genus:Toluca" ; Times: 4
+	Query: "genus:Elaphe specificepithet:vulpina" ; Times: 5
+	Query: "spea intermontanus" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 4
+	Query: "rana boylii distance(location,geopoint(36.23984280222428,-121.64920806884766))&lt;100000" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 5
+	Query: "Ceratophrys calcarata" ; Times: 1
+	Query: "(Lithobates catesbeianus)" ; Times: 4
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 2
+	Query: "genus:Ascaphus specificepithet:truei" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 3
+	Query: "genus:Calotriton specificepithet:asper" ; Times: 5
+	Query: "genus:Tomistoma specificepithet:schlegelii" ; Times: 5
+	Query: "genus:Lissotriton specificepithet:vulgaris" ; Times: 2
+	Query: "horned lizard" ; Times: 4
+	Query: "genus:Opheodrys specificepithet:aestivus" ; Times: 3
+	Query: "Long-toed Salamander" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma stateprovince:&#34;Texas&#34; hastissue:1" ; Times: 1
+	Query: "genus:Heterodon specificepithet:platirhinos" ; Times: 5
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 5
+	Query: "Vipera berus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 4
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sceloporus aeneus" ; Times: 2
+	Query: "genus:Lampropeltis specificepithet:triangulum" ; Times: 2
+	Query: "genus:Elaphe specificepithet:obsoleta" ; Times: 1
+	Query: "Natrix hastissue:1" ; Times: 1
+	Query: "genus:Cynops specificepithet:pyrrhogaster" ; Times: 2
+	Query: "genus:Leptophis specificepithet:diplotropis" ; Times: 5
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "(Lithobates sylvaticus)" ; Times: 2
+	Query: "genus:Chiropterotriton specificepithet:chondrostega" ; Times: 1
+	Query: "genus:Tarentola specificepithet:mauritanica " ; Times: 2
+	Query: "Northern Leopard Frog" ; Times: 2
+	Query: "genus:Charina specificepithet:bottae" ; Times: 5
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 2
+	Query: "eastern massasauga" ; Times: 1
+	Query: "genus:Gavialis specificepithet:gangeticus" ; Times: 5
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "crotalus pricei" ; Times: 3
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "painted turtle hassex:1" ; Times: 2
+	Query: "genus:Chilomeniscus" ; Times: 1
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 2
+	Query: "genus:Hylarana specificepithet:erythraea" ; Times: 2
+	Query: "genus:Chelydra" ; Times: 1
+	Query: "genus:Farancia specificepithet:abacura" ; Times: 2
+	Query: "rosy boa" ; Times: 1
+	Query: "vipera hastissue:1" ; Times: 1
+	Query: "genus:Crotalus specificepithet:viridis" ; Times: 1
+	Query: "genus:Anolis specificepithet:carolinensis" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "painted turtle hastissue:1" ; Times: 1
+	Query: "genus:Pseudis specificepithet:paradoxa" ; Times: 2
+	Query: "genus:Ichthyosaura specificepithet:alpestris" ; Times: 2
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1284 download events in this period)
+Total number of records downloaded: 77
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-08 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 2
+	Date: 2018-03-29 ; Times: 2
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-25 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:viridis genus:Crotalus hastissue:1" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "sceloporus aeneus" ; Times: 1
+	Query: "Talpa" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 2
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+
+
+End of report.
