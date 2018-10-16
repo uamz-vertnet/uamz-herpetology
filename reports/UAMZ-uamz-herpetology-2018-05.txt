@@ -1,0 +1,222 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 163
+Number of records retrieved in searches: 4056
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 136
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-07 ; Times: 2
+	Date: 2018-05-17 ; Times: 2
+	Date: 2018-05-16 ; Times: 27
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-19 ; Times: 7
+	Date: 2018-05-18 ; Times: 5
+	Date: 2018-05-08 ; Times: 3
+	Date: 2018-05-09 ; Times: 3
+	Date: 2018-05-29 ; Times: 2
+	Date: 2018-05-21 ; Times: 6
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 60
+	Date: 2018-05-24 ; Times: 28
+	Date: 2018-05-31 ; Times: 4
+	Date: 2018-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudoeurycea belli" ; Times: 1
+	Query: "Hynobius boulengeri" ; Times: 2
+	Query: "distance(location,geopoint(43.4623053706115,-89.3701269216162))&lt;38648" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 3
+	Query: "Calyptocephalella gayi hassex:1" ; Times: 3
+	Query: "Agkistrodon hastissue:1" ; Times: 17
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:UAMZ" ; Times: 3
+	Query: "class:Amphibia stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:UAMZ" ; Times: 3
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "specificepithet:gayi genus:Calyptocephalella institutioncode:UAMZ" ; Times: 3
+	Query: "specificepithet:hochstetteri genus:Leiopelma institutioncode:UAMZ" ; Times: 3
+	Query: "specificepithet:Molurus genus:Python hastissue:1" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:UAMZ" ; Times: 3
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:UAMZ" ; Times: 4
+	Query: "Hypopachus variolosus Mexico" ; Times: 1
+	Query: "crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:melanostictus genus:Duttaphrynus institutioncode:UAMZ" ; Times: 3
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:UAMZ" ; Times: 3
+	Query: "specificepithet:Hylarana genus:Hylarana institutioncode:UAMZ" ; Times: 3
+	Query: "Paramesotriton hongkongensis" ; Times: 2
+	Query: "distance(location,geopoint(43.2463409128285,-89.3126286336964))&lt;5079" ; Times: 1
+	Query: "Craugastor decoratus" ; Times: 4
+	Query: "specificepithet:paradoxa genus:Pseudis institutioncode:UAMZ" ; Times: 3
+	Query: "Hynobius naevius" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:UAMZ" ; Times: 3
+	Query: "family:Sphenodontidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:UAMZ" ; Times: 3
+	Query: "Coluber constrictor hastissue:1" ; Times: 1
+	Query: "crotalus pricei arizona" ; Times: 1
+	Query: "Craugastor decoratus decoratus" ; Times: 1
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:UAMZ" ; Times: 3
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:UAMZ" ; Times: 3
+	Query: "class:Reptilia country:&#34;Philippines&#34;" ; Times: 1
+	Query: "Leptodeira maculata" ; Times: 2
+	Query: "specificepithet:boa constrictor" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:UAMZ" ; Times: 3
+	Query: "Leiopelma hochstetteri" ; Times: 4
+	Query: "specificepithet:crepitans genus:Acris institutioncode:UAMZ" ; Times: 6
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa institutioncode:UAMZ" ; Times: 3
+	Query: "class:Reptilia distance(location,geopoint(21.32959788937382,-99.0501213678861))&lt;33926" ; Times: 1
+	Query: "Eleutherodactylus decoratus" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:UAMZ" ; Times: 3
+	Query: "Reptilia Sinaloa" ; Times: 2
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:UAMZ" ; Times: 3
+	Query: "Boreal Chorus frog" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes institutioncode:UAMZ" ; Times: 4
+	Query: "specificepithet:picta genus:Chrysemys mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Ommatotriton vittatus" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana institutioncode:UAMZ" ; Times: 3
+	Query: "specificepithet:pipa genus:Pipa institutioncode:UAMZ" ; Times: 3
+	Query: "Sistrurus hastissue:1" ; Times: 14
+	Query: "specificepithet:Thamnophis sirtalis" ; Times: 3
+	Query: "specificepithet:nasuta genus:Megophrys institutioncode:UAMZ" ; Times: 3
+	Query: "specificepithet:Thamnophis sirtalis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:intermontana genus:Spea institutioncode:UAMZ" ; Times: 3
+	Query: "henry coe genus:rana" ; Times: 1
+	Query: "specificepithet:Hymenochirus genus:Hymenochirus institutioncode:UAMZ" ; Times: 3
+	Query: "Bolitoglossa platydactyla" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 100 (out of 1178 download events in this period)
+Total number of records downloaded: 931
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 36
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 47
+	Country: Brazil ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 5
+	Date: 2018-05-21 ; Times: 6
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-06 ; Times: 7
+	Date: 2018-05-07 ; Times: 12
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-08 ; Times: 10
+	Date: 2018-05-09 ; Times: 4
+	Date: 2018-05-30 ; Times: 6
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-13 ; Times: 11
+	Date: 2018-05-12 ; Times: 1
+	Date: 2018-05-19 ; Times: 9
+	Date: 2018-05-18 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Paramesotriton hongkongensis" ; Times: 1
+	Query: "Calotriton asper" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "Chiropterotriton chondrostega" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 1
+	Query: "Lissotriton helveticus" ; Times: 1
+	Query: "Ichthyosaura alpestris" ; Times: 1
+	Query: "Lacertidae" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Amphiuma pholeter" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 3
+	Query: "Hynobius naevius" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;SINALOA&#34;" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "agkistrodon" ; Times: 1
+	Query: "Chiropterotriton dimidiatus" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Craugastor decoratus" ; Times: 14
+	Query: "Desmognathus fuscus" ; Times: 1
+	Query: "genus:crotalus" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Eleutherodactylus decoratus" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Onychodactylus japonicus" ; Times: 2
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 2
+	Query: "Bolitoglossa subpalmata" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "Notophthalmus meridionalis" ; Times: 3
+	Query: "Cynops ensicauda" ; Times: 1
+	Query: "Leptodeira maculata" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 2
+	Query: "Serpentes" ; Times: 1
+
+
+End of report.
