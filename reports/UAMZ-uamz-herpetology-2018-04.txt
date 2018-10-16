@@ -1,0 +1,163 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 82
+Number of records retrieved in searches: 596
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 64
+	Country: Australia ; Times: 8
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-23 ; Times: 7
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-21 ; Times: 9
+	Date: 2018-04-20 ; Times: 2
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 4
+	Date: 2018-04-25 ; Times: 4
+	Date: 2018-04-24 ; Times: 9
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-02 ; Times: 6
+	Date: 2018-04-05 ; Times: 2
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-09 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-10 ; Times: 2
+	Date: 2018-04-16 ; Times: 6
+	Date: 2018-04-17 ; Times: 11
+	Date: 2018-04-14 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lithobates catesbeiana" ; Times: 3
+	Query: "map turtle" ; Times: 1
+	Query: "Typhlops hastissue:1" ; Times: 1
+	Query: "class:Amphibia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Puebla&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:thamnophis hassex:1 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:jarrovi genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 7
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 3
+	Query: "Thamnophis elegans hastissue:1" ; Times: 2
+	Query: "specificepithet:Bufo genus:Bufo hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeiana hastissue:1" ; Times: 1
+	Query: "genus:Lacerta hastissue:1" ; Times: 1
+	Query: "genus: Typhlops hastissue:1" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 9
+	Query: "class:Reptilia distance(location,geopoint(21.094750533140186,-98.54736328125))&lt;100000" ; Times: 1
+	Query: "lithobates catesbeianus distance(location,geopoint(30.172761958001654,-97.12713360786438))&lt;277281" ; Times: 1
+	Query: "genus:Phrynosoma hastissue:1" ; Times: 3
+	Query: "genus:Ambystoma haslength:1" ; Times: 1
+	Query: "Gerrhonotus" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolina genus:Terrapene hastissue:1" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "phrynosoma solare stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "viridis arizona" ; Times: 1
+	Query: "specificepithet:hemiophrys" ; Times: 3
+	Query: "Spea bombifrons" ; Times: 2
+	Query: "hemiophrys" ; Times: 1
+	Query: "genus:Ablepharus hastissue:1" ; Times: 1
+	Query: "lampropeltis pyromelana arizona" ; Times: 1
+	Query: "Hawaii amphibia" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix hastissue:1" ; Times: 3
+	Query: "class:amphibia stateprovince:&#34;puebla&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Anolis hastissue:1" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "class:Reptilia distance(location,geopoint(20.72135727903874,-100.21342277526855))&lt;100000" ; Times: 1
+	Query: "Pseudoeurycea belli" ; Times: 1
+	Query: "giant salamander" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 1
+	Query: "greenhouse frog" ; Times: 1
+	Query: "specificepithet:viridis hastissue:1" ; Times: 1
+	Query: "genus:Lichanura sex:male OR female" ; Times: 2
+	Query: "osoyoos" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Crotalus pricei Arizona" ; Times: 1
+	Query: "genus:Cerberus hastissue:1" ; Times: 1
+	Query: "crotalus pricei stateprovince:Arizona mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1359 download events in this period)
+Total number of records downloaded: 1104
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-17 ; Times: 2
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-29 ; Times: 1
+	Date: 2018-04-23 ; Times: 15
+	Date: 2018-04-22 ; Times: 4
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-27 ; Times: 2
+	Date: 2018-04-25 ; Times: 2
+	Date: 2018-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:sternotherus sex:male OR female" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "class:Amphibia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "distance(location,geopoint(19.55309,-155.31731))&lt;50000" ; Times: 1
+	Query: "Gastrophryne olivacea" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "Scaphiopus hurterii" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Sternotherus sex:male OR female" ; Times: 1
+	Query: "genus:Thamnophis sex:male OR female" ; Times: 2
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "genus:chrysemys sex:male OR female" ; Times: 2
+	Query: "scaphiopus couchii" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Pseudacris clarkii" ; Times: 1
+	Query: "order:Squamata hastissue:1" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Harris&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Osteopilus septentrionalis" ; Times: 1
+	Query: "Anaxyrus woodhousii" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "vntype:specimen genus:Anolis hastissue:1" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "bufo boreas" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "Ninia diademata mappable:1" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+
+
+End of report.
