@@ -1,0 +1,95 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 256
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 3
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-09 ; Times: 4
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-31 ; Times: 2
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-20 ; Times: 3
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma (egg)" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Paramesotriton hongkongensis" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "&#34;Harris County&#34;" ; Times: 2
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "Craugastor decoratus" ; Times: 1
+	Query: "bufo hemiophrys" ; Times: 1
+	Query: "rosy boa" ; Times: 1
+	Query: "family:Leptotyphlopidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Eleutherodactylus guerrero" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 2
+	Query: "bufo hemiophrys UAMZ" ; Times: 1
+	Query: "specificepithet:pyromelana genus:lampropeltis county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:rana year &gt;= 1953 year &lt;= 1953 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Dicamptodon ensatus hastissue:1" ; Times: 1
+	Query: "aipysurus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 977 download events in this period)
+Total number of records downloaded: 324
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 12
+	Country: France ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-15 ; Times: 2
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma (egg)" ; Times: 1
+	Query: "egg order:Caudata" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "rana boylii" ; Times: 1
+	Query: "rana pretiosa" ; Times: 1
+	Query: "family:chamaeleonidae hastissue:1" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "atelopus varius" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+
+
+End of report.
