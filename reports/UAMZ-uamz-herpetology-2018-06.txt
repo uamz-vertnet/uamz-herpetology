@@ -1,0 +1,184 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 516
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 12
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 42
+	Country: Germany ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Nicaragua ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-23 ; Times: 11
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-02 ; Times: 5
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-07 ; Times: 12
+	Date: 2018-06-06 ; Times: 3
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-14 ; Times: 2
+	Date: 2018-06-28 ; Times: 2
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-24 ; Times: 8
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 7
+	Date: 2018-06-30 ; Times: 4
+	Date: 2018-06-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mink frog" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(42.73591782230738,-88.42826843261719))&lt;40829" ; Times: 1
+	Query: "Vipera" ; Times: 3
+	Query: "genus:Bolitoglossa specificepithet:platydactyla" ; Times: 1
+	Query: "gavialis gangeticus" ; Times: 2
+	Query: "plains spadefoot" ; Times: 1
+	Query: "specificepithet:cataphractus" ; Times: 2
+	Query: "Crotalus pricei" ; Times: 2
+	Query: "Craugastor decoratus" ; Times: 1
+	Query: "genus:Vipera" ; Times: 1
+	Query: "frog oregon" ; Times: 1
+	Query: "specificepithet:cataphractus genus:crocodylus" ; Times: 9
+	Query: "Crotalus pricei pricei" ; Times: 1
+	Query: "frog northwest" ; Times: 1
+	Query: "Andrias" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis hastissue:1" ; Times: 1
+	Query: "syrrhophus cystignathoides" ; Times: 2
+	Query: "painted turtle" ; Times: 3
+	Query: "locality:Xilitla stateprovince:&#34;San Luis Potosí&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "family:Viperidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "andrias" ; Times: 1
+	Query: "family:Leptotyphlopidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Leiopelma" ; Times: 1
+	Query: "crotalus pricei" ; Times: 13
+	Query: "western painted turtle" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:rana stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "rubber boa" ; Times: 2
+	Query: "heterodon platyrhinos" ; Times: 5
+	Query: "giant salamander" ; Times: 2
+	Query: "specificepithet:cornutum genus:Phrynosoma hastissue:1" ; Times: 2
+	Query: "columbia spotted frog" ; Times: 1
+	Query: "Ommatotriton vittatus" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:texas" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 2
+	Query: "wood frog" ; Times: 1
+	Query: "specificepithet:tropidonotus genus:Anolis hastissue:1" ; Times: 1
+	Query: "eurycea junaluska" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Leptodeira hastissue:1" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "heterodon nasicus" ; Times: 2
+	Query: "Xilitla" ; Times: 2
+	Query: "specificepithet:niloticus genus:crocodylus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 1169 download events in this period)
+Total number of records downloaded: 5876
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 58
+	Country: Austria ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 3
+	Date: 2018-06-07 ; Times: 14
+	Date: 2018-06-06 ; Times: 18
+	Date: 2018-06-05 ; Times: 19
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-03 ; Times: 5
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-17 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-27 ; Times: 3
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-20 ; Times: 2
+	Date: 2018-06-25 ; Times: 4
+	Date: 2018-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "American bullfrog" ; Times: 3
+	Query: "Sistrurus catenatus" ; Times: 2
+	Query: "order:Caudata lifestage:egg" ; Times: 1
+	Query: "Ambystoma tigrinum melanostictum" ; Times: 1
+	Query: "Taricha granulosa granulosa" ; Times: 1
+	Query: "mink frog" ; Times: 1
+	Query: "spotted salamander" ; Times: 5
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "gavialis gangeticus" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "Phrynosoma cornutum" ; Times: 2
+	Query: "taricha granulosa" ; Times: 4
+	Query: "american bullfrog" ; Times: 1
+	Query: "Andrias japonicus" ; Times: 1
+	Query: "Triturus cristatus" ; Times: 1
+	Query: "family:Colubridae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "frog" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "family:Lacertidae hastissue:1" ; Times: 1
+	Query: "Taricha torosa" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Rhyacotriton olympicus" ; Times: 2
+	Query: "specificepithet:lineatum genus:Tropidoclonion" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 3
+	Query: "Spotted Salamander" ; Times: 2
+	Query: "rubber boa" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Hyla regilla" ; Times: 1
+	Query: "painted turtle" ; Times: 1
+	Query: "Crotalus pricei pricei" ; Times: 2
+	Query: "family:Leptotyphlopidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "genus:Coniophanes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "western painted turtle" ; Times: 1
+	Query: "Amphibia SALAMANDER" ; Times: 1
+	Query: "American Bullfrog" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "giant salamander" ; Times: 2
+	Query: "valliceps" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "columbia spotted frog" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "chihuahua reptilia" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 1
+	Query: "wood frog" ; Times: 1
+	Query: "Siren intermedia" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "reptile" ; Times: 1
+	Query: "family:Viperidae class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 3
+	Query: "western toad" ; Times: 2
+	Query: "wood frog continent:North America" ; Times: 1
+
+
+End of report.
