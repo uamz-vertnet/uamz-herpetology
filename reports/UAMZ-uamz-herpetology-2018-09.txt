@@ -1,0 +1,156 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 164
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: United States ; Times: 42
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-02 ; Times: 2
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-04 ; Times: 11
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-09 ; Times: 4
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-29 ; Times: 1
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-12 ; Times: 2
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-01 ; Times: 2
+	Date: 2018-09-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phrynosoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:maculata genus:holbrookia stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:gilberti genus:eumeces stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "specificepithet:Gilberti county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:maculata genus:holbrookia stateprovince:&#34;texas&#34; distance(location,geopoint(31.09670721938589,-102.0029242079807))&lt;100000" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;sinaloa&#34;" ; Times: 2
+	Query: "Sibon" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis mappable:1 stateprovince:Arizona" ; Times: 5
+	Query: "specificepithet:grammicus genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "genus:lampropeltis stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "lampropeltis triangulum mexico" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Phrynosoma douglassi" ; Times: 1
+	Query: "Bufo boreas Alaska" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:boreas AND (genus:Anaxyrus OR genus:Bufo) AND stateprovince:Alaska" ; Times: 4
+	Query: "Tropidodipsas Tamaulipas" ; Times: 1
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Leptodeira mappable:1" ; Times: 1
+	Query: "Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Vipera berus" ; Times: 2
+	Query: "specificepithet:gilberti genus:eumeces stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1975" ; Times: 1
+	Query: "specificepithet:gilberti genus:eumeces stateprovince:&#34;California&#34; year &gt;= 1950 year &lt;= 1975" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) hastissue:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Gehyra mutilata Mexico" ; Times: 1
+	Query: "hellbender cryptobranchidae" ; Times: 2
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "genus:amphiuma stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "specificepithet:jarrovi genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 2
+	Query: "giant salamander" ; Times: 1
+	Query: "Hydrophis" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 1
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "genus:Adelphicos stateprovince:&#34;Chiapas&#34;" ; Times: 2
+	Query: "Aipysurus" ; Times: 2
+	Query: "specificepithet:maculata genus:holbrookia stateprovince:&#34;texas&#34; distance(location,geopoint(31.790304782984613,-102.8378851454807))&lt;940451" ; Times: 1
+	Query: "genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:solare genus:Phrynosoma stateprovince:&#34;Arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 846 download events in this period)
+Total number of records downloaded: 472
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 7
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-12 ; Times: 4
+	Date: 2018-09-06 ; Times: 5
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-04 ; Times: 4
+	Date: 2018-09-19 ; Times: 3
+	Date: 2018-09-18 ; Times: 11
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus magister" ; Times: 1
+	Query: "genus:Phrynosoma basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "bolitoglossa rufescens" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "siren intermedia" ; Times: 2
+	Query: "genus:Crotaphytus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "Ninia diademata diademata" ; Times: 1
+	Query: "rana boylii" ; Times: 1
+	Query: "specificepithet:undulatus genus:sceloporus" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "eleutherodactylus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia hastissue:1" ; Times: 1
+	Query: "Urosaurus ornatus" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "macroclemys" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "giant salamander" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "Ameiva undulata" ; Times: 2
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Coniophanes ﬁssidens ﬁssidens" ; Times: 2
+	Query: "Phrynosoma douglassi" ; Times: 1
+
+
+End of report.
