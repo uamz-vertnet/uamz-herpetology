@@ -1,0 +1,155 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 304
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 38
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 6
+	Country: Germany ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 4
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 16
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 6
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-31 ; Times: 6
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+	Date: 2018-10-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:heatherdown stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:Calyptocephalella specificepithet:gayi" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 14
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "mountain chorus frog" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 3
+	Query: "bufo americanus vntype:specimen (anaxyrus americanus)" ; Times: 1
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "plethodon neomexicanus" ; Times: 6
+	Query: "Caiman crocodilus country: &#34;Brazil&#34;" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "Heterodon platyrhinos" ; Times: 1
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:neomexicanus genus:plethodon" ; Times: 3
+	Query: "Rubber Boa" ; Times: 1
+	Query: "specificepithet:Carolina genus:Terrapene hastissue:1" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Texas&#34; catalognumber:R354 institutioncode:UAMZ" ; Times: 2
+	Query: "Vipera" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "genus:Craugastor specificepithet:decoratus" ; Times: 1
+	Query: "Plectrohyla matudai" ; Times: 1
+	Query: "hawksbill sea turtle" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sceloporus scalaris scalaris" ; Times: 2
+	Query: "Rana boy" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Alachua&#34;" ; Times: 1
+	Query: "Gavialis gangeticus" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Texas&#34; catalognumber:R355 institutioncode:UAMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 45 (out of 1300 download events in this period)
+Total number of records downloaded: 305
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 3
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-07 ; Times: 2
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-03 ; Times: 3
+	Date: 2018-10-22 ; Times: 7
+	Date: 2018-10-25 ; Times: 3
+	Date: 2018-10-08 ; Times: 3
+	Date: 2018-10-19 ; Times: 2
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-11 ; Times: 1
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Diadophis punctatus" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Anolis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "caiman latirostris" ; Times: 3
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "genus: Python sebae" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "heterodon platirhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Caiman crocodilus country: &#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates hastissue:1" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "ninia diademata" ; Times: 1
+	Query: "sceloporus aeneus" ; Times: 2
+	Query: "heterodon platyrhinos vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 2
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "specificepithet:blanchardi genus:Acris" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "Hypsiboas" ; Times: 1
+	Query: "Coluber constrictor" ; Times: 1
+	Query: "Coniophanes fissidens" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "Plectrohyla matudai" ; Times: 2
+	Query: "sceloporus scalaris scalaris" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 2
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "genus:Cnemidophorus" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "reptile baja california" ; Times: 1
+
+
+End of report.
