@@ -1,0 +1,142 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 614
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 12
+	Country: United States ; Times: 33
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 3
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-04 ; Times: 2
+	Date: 2018-11-09 ; Times: 1
+	Date: 2018-11-08 ; Times: 2
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-06 ; Times: 4
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-13 ; Times: 3
+	Date: 2018-11-14 ; Times: 1
+	Date: 2018-11-15 ; Times: 4
+	Date: 2018-11-01 ; Times: 13
+	Date: 2018-11-25 ; Times: 3
+	Date: 2018-11-27 ; Times: 3
+	Date: 2018-11-26 ; Times: 3
+	Date: 2018-11-21 ; Times: 1
+	Date: 2018-11-16 ; Times: 2
+	Date: 2018-11-23 ; Times: 1
+	Date: 2018-11-11 ; Times: 5
+	Date: 2018-11-12 ; Times: 2
+	Date: 2018-11-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Canadian lynx" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Sibon nebulata" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 1
+	Query: "Phrynohyas venulosa" ; Times: 1
+	Query: "Anura San Luis Potosí México" ; Times: 2
+	Query: "Anaxyrus hemiophrys UAMZ" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Ceratophrys calcarata" ; Times: 2
+	Query: "Amphibia San Luis Potosi México" ; Times: 1
+	Query: "canadian lynx" ; Times: 1
+	Query: "rosy boa" ; Times: 2
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "specificepithet:bombina orientalis" ; Times: 1
+	Query: "gbifdatasetid:88d7437e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "order:Anura stateprovince:&#34;San Luis Potosi&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 16
+	Query: "ceratophrys calcarata" ; Times: 1
+	Query: "Mudpuppy" ; Times: 3
+	Query: "specificepithet:Gastrophryne olivacea class:Amphibia" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 1
+	Query: "genus:Chelydra specificepithet:serpentina" ; Times: 4
+	Query: "order:Anura stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Rosy Boa" ; Times: 2
+	Query: "Anaxyrus hemiophrys" ; Times: 4
+	Query: "wisconsin trachemys" ; Times: 2
+	Query: "specificepithet:Pricei genus:Crotalus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Draco volans" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 30 (out of 1719 download events in this period)
+Total number of records downloaded: 262
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 16
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-18 ; Times: 1
+	Date: 2018-11-04 ; Times: 1
+	Date: 2018-11-08 ; Times: 1
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-05 ; Times: 2
+	Date: 2018-11-13 ; Times: 2
+	Date: 2018-11-14 ; Times: 5
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-16 ; Times: 3
+	Date: 2018-11-15 ; Times: 2
+	Date: 2018-11-27 ; Times: 2
+	Date: 2018-11-26 ; Times: 1
+	Date: 2018-11-21 ; Times: 1
+	Date: 2018-11-12 ; Times: 1
+	Date: 2018-11-29 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:undulatus genus:Sceloporus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "crotalus" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "vntype:specimen family:Plethodontidae order:Caudata class:Amphibia" ; Times: 1
+	Query: "pythonidae" ; Times: 1
+	Query: "specificepithet:euryxanthus genus:Micruroides" ; Times: 1
+	Query: "Iguana iguana" ; Times: 2
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "family:Viperidae" ; Times: 1
+	Query: "bombina bombina" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "specificepithet:bombina bombina" ; Times: 1
+	Query: "specificepithet:lugubris genus:aneides stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:squamata country:&#34;brazil&#34;" ; Times: 1
+	Query: "sceloporus" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "genus:Opheodrys" ; Times: 2
+	Query: "family:Plethodontidae" ; Times: 1
+	Query: "ceratophrys" ; Times: 1
+	Query: "specificepithet:occipitalis genus:Chionactis" ; Times: 1
+	Query: "specificepithet:trivirgata genus:Lichanura" ; Times: 1
+	Query: "specificepithet:boylii genus:Rana year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "Taricha granulosa" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Batrachoseps" ; Times: 1
+
+
+End of report.
