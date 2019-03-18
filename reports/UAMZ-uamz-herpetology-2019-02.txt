@@ -1,0 +1,114 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 272
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 4
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-10 ; Times: 2
+	Date: 2019-02-05 ; Times: 1
+	Date: 2019-02-14 ; Times: 3
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 2
+	Date: 2019-02-12 ; Times: 4
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-07 ; Times: 6
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-20 ; Times: 3
+	Date: 2019-02-09 ; Times: 2
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-01 ; Times: 2
+	Date: 2019-02-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "golden frog" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Gerrhonotus coerulea" ; Times: 1
+	Query: "yellow perch" ; Times: 1
+	Query: "Black salamander" ; Times: 1
+	Query: "Bufo marmoreus" ; Times: 1
+	Query: "specificepithet:gayi genus:Calyptocephalella" ; Times: 1
+	Query: "specificepithet:Phrynosoma cornutum genus:Phrynosoma" ; Times: 1
+	Query: "long-toed salamander" ; Times: 2
+	Query: "recordedby:haynes" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34; year &lt;= 2000" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "sceloporus aeneus" ; Times: 1
+	Query: "tarentola mauritanica" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "western chorus frog" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "Ball python" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "Leiopelma hochstetteri" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "genus:Aneides stateprovince:&#34;Alabama&#34;" ; Times: 2
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "specificepithet:undulata genus:ameiva country:&#34;mexico&#34;" ; Times: 2
+	Query: "vipera berus" ; Times: 2
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "rubber boa" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:cystignathoides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1227 download events in this period)
+Total number of records downloaded: 168
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 6
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-12 ; Times: 1
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-05 ; Times: 2
+	Date: 2019-02-19 ; Times: 1
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-09 ; Times: 1
+	Date: 2019-02-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "porcupine" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "specificepithet:Aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "spotted salamander" ; Times: 1
+	Query: "specificepithet:cingulatum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "siphonops" ; Times: 1
+	Query: "long-toed salamander" ; Times: 1
+
+
+End of report.
