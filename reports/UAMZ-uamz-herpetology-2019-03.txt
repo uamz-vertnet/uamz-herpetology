@@ -1,0 +1,120 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 136
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Mexico ; Times: 9
+	Country: Czechia ; Times: 2
+	Country: United Kingdom ; Times: 18
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-13 ; Times: 5
+	Date: 2019-03-27 ; Times: 5
+	Date: 2019-03-26 ; Times: 2
+	Date: 2019-03-25 ; Times: 4
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-18 ; Times: 5
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-15 ; Times: 13
+	Date: 2019-03-12 ; Times: 3
+	Date: 2019-03-07 ; Times: 4
+	Date: 2019-03-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Crotalus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Sceloporus Canada" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Python regius" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 2
+	Query: "Pseudotriton Alabama Tuscaloosa" ; Times: 1
+	Query: "Python breitensteini" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Vipera berus 2018" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides mappable:1" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "Bolitoglossa platydactyla mappable:1" ; Times: 1
+	Query: "Python molurus" ; Times: 1
+	Query: "gavialis" ; Times: 1
+	Query: "Vipera berus" ; Times: 3
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Craugastor decoratus mappable:1" ; Times: 1
+	Query: "northern pike" ; Times: 1
+	Query: "Lichanura trivirgata" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "family:Scincidae stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 7
+	Query: "Craugastor mexicanus mappable:1" ; Times: 1
+	Query: "Milk snake" ; Times: 2
+	Query: "genus:Hynobius specificepithet:retardatus" ; Times: 2
+	Query: "Sceloporus Alabama" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus pricei" ; Times: 8
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "greenhouse frog" ; Times: 2
+	Query: "Rana temporaria mappable:1" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Adelphicos veraepacis" ; Times: 1
+	Query: "Amphibia Alabama Tuscaloosa" ; Times: 3
+	Query: "Leptodeira maculata" ; Times: 1
+	Query: "Python curtus" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 1
+	Query: "arizona toad" ; Times: 1
+	Query: "genus:Adelphicos class:Reptilia country:&#34;Mexico&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1281 download events in this period)
+Total number of records downloaded: 79
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 9
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "hylarana erythraea" ; Times: 1
+	Query: "genus:Onychodactylus" ; Times: 1
+	Query: "crotalus pricei" ; Times: 3
+	Query: "specificepithet:ferreus genus:aneides" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "elapidae Mexico" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+
+
+End of report.
