@@ -1,0 +1,124 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 290
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 23
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Sweden ; Times: 5
+	Country: United Kingdom ; Times: 3
+	Country: Malaysia ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 6
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 7
+	Date: 2019-04-18 ; Times: 1
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-05 ; Times: 1
+	Date: 2019-04-11 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 2
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-06 ; Times: 6
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-01 ; Times: 8
+	Date: 2019-04-24 ; Times: 3
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-07 ; Times: 1
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-29 ; Times: 9
+	Date: 2019-04-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "plectrohyla matudai" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 2
+	Query: "Chilomeniscus cinctus" ; Times: 1
+	Query: "Ctenosaura pectinata mappable:1" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "tomistoma" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus stateprovince:&#34;Washington&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rosy boa" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "queen lake" ; Times: 1
+	Query: "tomistoma schlegelii" ; Times: 2
+	Query: "specificepithet:truei genus:Ascaphus lifestage:larva" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "Leptodeira maculata mappable:1" ; Times: 1
+	Query: "genus:Craugastor specificepithet:decoratus" ; Times: 2
+	Query: "Gavialis" ; Times: 1
+	Query: "bullfrog specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "amphisbaena alba" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Caiman" ; Times: 1
+	Query: "Sibon nebulata mappable:1" ; Times: 1
+	Query: "Coniophanes fissidens mappable:1" ; Times: 1
+	Query: "Crotalus viridis arizona" ; Times: 1
+	Query: "Phrynosoma solare mappable:1" ; Times: 1
+	Query: "crotalus pricei" ; Times: 7
+	Query: "lampropeltis pyromelana pyromelana" ; Times: 1
+	Query: "Leptophis diplotropis mappable:1" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "specificepithet:Plethodon cinereus" ; Times: 3
+	Query: "specificepithet:scutulatus genus:Crotalus stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Leptodeira stateprovince:&#34;Jalisco&#34;" ; Times: 6
+	Query: "Gavialis gangeticus" ; Times: 1
+	Query: "rosy boa" ; Times: 1
+	Query: "hognose snake nasicus" ; Times: 1
+	Query: "Dataset snake" ; Times: 2
+	Query: "Rana aurora mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1263 download events in this period)
+Total number of records downloaded: 523
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-20 ; Times: 5
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-09 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "bullfrog specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:tigrinum" ; Times: 1
+	Query: "Chilomeniscus cinctus" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:maculatum genus:ambystoma" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:opacum" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:jeffersonianum" ; Times: 1
+	Query: "Ambystoma macrodactylum" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+
+
+End of report.
