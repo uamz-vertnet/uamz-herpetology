@@ -1,0 +1,116 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 582
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Ukraine ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 30
+	Country: Puerto Rico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 8
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 4
+	Date: 2019-05-21 ; Times: 5
+	Date: 2019-05-20 ; Times: 1
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-14 ; Times: 2
+	Date: 2019-05-31 ; Times: 1
+	Date: 2019-05-29 ; Times: 1
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-18 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-11 ; Times: 2
+	Date: 2019-05-13 ; Times: 1
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 5
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Scaphiopus intermontanus" ; Times: 2
+	Query: "lithobates catesbeianus rana" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "genus:Amphisbaena preparations:skeleton" ; Times: 2
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "Pyromelana Arizona" ; Times: 3
+	Query: "pyromelana" ; Times: 2
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:platydactyla genus:Bolitoglossa" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Lichanura" ; Times: 1
+	Query: "Hawksbill sea turtle" ; Times: 2
+	Query: "PYROMELANA" ; Times: 1
+	Query: "Phrynosoma kern county" ; Times: 1
+	Query: "specificepithet:catesbeianus genus:Lithobates stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 2
+	Query: "Giant Salamander" ; Times: 2
+	Query: "Lithobates catesbeiana" ; Times: 1
+	Query: "Lithobates catesbeianus rana" ; Times: 2
+	Query: "crotalus pricei" ; Times: 4
+	Query: "Fox snake" ; Times: 1
+	Query: "genus:Leptodeira stateprovince:&#34;Jalisco&#34;" ; Times: 4
+	Query: "bufo hemiophrys" ; Times: 2
+	Query: "Ambystoma macrodactylum vntype:specimen country:&#34;Canada&#34;" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "bufo hemiophrys uamz" ; Times: 2
+	Query: "genus:Eleutherodactylus specificepithet:cystignathoides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 940 download events in this period)
+Total number of records downloaded: 68
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 5
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-08 ; Times: 3
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 2
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 2
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:crepitans genus:Acris" ; Times: 2
+	Query: "crotalus pricei" ; Times: 1
+	Query: "specificepithet:rufescens genus:Bolitoglossa" ; Times: 1
+	Query: "specificepithet:subpalmata genus:Bolitoglossa" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "family:Gekkonidae" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:cingulatum" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "Salamandra" ; Times: 1
+	Query: "specificepithet:cephalica genus:Pseudoeurycea" ; Times: 1
+	Query: "(reptilia) distance(location,geopoint(37.12130728695301,-118.09835902908941))&lt;118999" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "specificepithet:platydactyla genus:Bolitoglossa" ; Times: 1
+	Query: "Siphonops annulatus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+
+
+End of report.
