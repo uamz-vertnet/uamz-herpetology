@@ -1,0 +1,199 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 162
+Number of records retrieved in searches: 958
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 152
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Hong Kong ; Times: 1
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 2
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-23 ; Times: 2
+	Date: 2019-06-19 ; Times: 5
+	Date: 2019-06-25 ; Times: 5
+	Date: 2019-06-08 ; Times: 2
+	Date: 2019-06-15 ; Times: 11
+	Date: 2019-06-07 ; Times: 5
+	Date: 2019-06-04 ; Times: 1
+	Date: 2019-06-05 ; Times: 6
+	Date: 2019-06-11 ; Times: 63
+	Date: 2019-06-03 ; Times: 7
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-10 ; Times: 16
+	Date: 2019-06-28 ; Times: 7
+	Date: 2019-06-24 ; Times: 4
+	Date: 2019-06-12 ; Times: 11
+	Date: 2019-06-17 ; Times: 9
+	Date: 2019-06-26 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "northern leopard frog" ; Times: 1
+	Query: "genus:Hymenochirus specificepithet:boettgeri" ; Times: 1
+	Query: "genus:Sphenodon specificepithet:punctatus" ; Times: 2
+	Query: "genus:Elaphe specificepithet:obsoleta" ; Times: 1
+	Query: "LAMPROPELTIS PYROMELANA" ; Times: 2
+	Query: "genus:Pseudoeurycea specificepithet:cephalica" ; Times: 1
+	Query: "genus:Opheodrys specificepithet:aestivus" ; Times: 1
+	Query: "genus:Masticophis specificepithet:bilineatus" ; Times: 1
+	Query: "genus:Sceloporus specificepithet:grammicus" ; Times: 1
+	Query: "locality:PINAL DE AMOLES" ; Times: 2
+	Query: "genus:Elaphe specificepithet:vulpina" ; Times: 1
+	Query: "genus:Leptodeira specificepithet:septentrionalis" ; Times: 1
+	Query: "genus:Lissotriton specificepithet:vulgaris" ; Times: 1
+	Query: "horned lizard" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 11
+	Query: "genus:Ambystoma specificepithet:tigrinum" ; Times: 1
+	Query: "genus:Eurycea specificepithet:junaluska" ; Times: 1
+	Query: "genus:Ichthyosaura specificepithet:alpestris" ; Times: 1
+	Query: "genus:Pipa specificepithet:pipa" ; Times: 1
+	Query: "genus:eleutherodactylus stateprovince:&#34;guerrero&#34;" ; Times: 1
+	Query: "genus:Andrias specificepithet:japonicus" ; Times: 1
+	Query: "genus:Chrysemys specificepithet:picta" ; Times: 1
+	Query: "hawksbill sea turtle" ; Times: 1
+	Query: "giant salamander" ; Times: 3
+	Query: "genus:Leptodeira stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "genus:lampropeltis country:&#34;mexico&#34;" ; Times: 5
+	Query: "genus:Eumeces specificepithet:laticeps" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 2
+	Query: "genus:Cerberus country:&#34;Philippines&#34;" ; Times: 1
+	Query: "genus:Anguis" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "genus:Lichanura specificepithet:trivirgata" ; Times: 1
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:bicolor" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:pyromelana" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 2
+	Query: "genus:Calotriton specificepithet:asper" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 1
+	Query: "genus:Micruroides specificepithet:euryxanthus" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 1
+	Query: "genus:Pyxicephalus specificepithet:adspersus" ; Times: 2
+	Query: "Lampropeltis Pyromelana" ; Times: 4
+	Query: "genus:Pleurodeles specificepithet:waltl" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:pholeter" ; Times: 2
+	Query: "genus:Coniophanes specificepithet:fissidens" ; Times: 1
+	Query: "genus:Bombina specificepithet:orientalis" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides}" ; Times: 1
+	Query: "specificepithet:sylvatica genus:Rana stateprovince:&#34;alberta&#34; country:&#34;canada&#34;" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "genus:Bombina specificepithet:bombina" ; Times: 1
+	Query: "genus:Gavialis specificepithet:gangeticus" ; Times: 2
+	Query: "genus:Sistrurus specificepithet:miliarius" ; Times: 1
+	Query: "genus:Alytes specificepithet:obstetricans" ; Times: 1
+	Query: "Yellow perch" ; Times: 2
+	Query: "genus:Laticauda specificepithet:colubrina" ; Times: 1
+	Query: "Rana aurora mappable:1" ; Times: 3
+	Query: "genus:Dicamptodon specificepithet:ensatus" ; Times: 1
+	Query: "genus:Elgaria specificepithet:kingii" ; Times: 1
+	Query: "pyromelana" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 2
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "genus:Calyptocephalella specificepithet:gayi" ; Times: 2
+	Query: "genus:Phrynosoma specificepithet:solare" ; Times: 1
+	Query: "genus:Tomistoma specificepithet:schlegelii" ; Times: 2
+	Query: "genus:Heterodon specificepithet:platirhinos" ; Times: 2
+	Query: "specificepithet:viridis genus:crotalus institutioncode:UAMZ" ; Times: 2
+	Query: "Oregon spotted frog" ; Times: 1
+	Query: "genus:Eleutherodactylus specificepithet:pipilans" ; Times: 2
+	Query: "Caiman; skull" ; Times: 1
+	Query: "Pyromelana" ; Times: 1
+	Query: "genus:Farancia specificepithet:abacura" ; Times: 1
+	Query: "Caiman crocodilus; skull" ; Times: 1
+	Query: "genus:Pseudotriton specificepithet:ruber" ; Times: 1
+	Query: "genus:Rhyacotriton specificepithet:olympicus" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:heilprini" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "genus:Pseudis specificepithet:paradoxa" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "genus:Leiopelma specificepithet:hochstetteri" ; Times: 1
+	Query: "genus:Cynops specificepithet:pyrrhogaster" ; Times: 1
+	Query: "genus:Acris specificepithet:gryllus" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 2
+	Query: "genus:Onychodactylus specificepithet:japonicus" ; Times: 1
+	Query: "genus:Toluca" ; Times: 1
+	Query: "institutioncode:uamz" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 3
+	Query: "genus:Cryptobranchus specificepithet:alleganiensis" ; Times: 1
+	Query: "genus:Ninia specificepithet:diademata" ; Times: 1
+	Query: "genus:Cemophora specificepithet:coccinea" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 20
+	Query: "vntype:specimen genus:Caiman preparations:skull" ; Times: 2
+	Query: "genus:Tarentola specificepithet:mauritanica " ; Times: 2
+	Query: "genus:Ommatotriton specificepithet:vittatus" ; Times: 1
+	Query: "genus:Leptophis specificepithet:diplotropis" ; Times: 1
+	Query: "genus:Spea specificepithet:bombifrons" ; Times: 1
+	Query: "genus:Gehyra specificepithet:mutilata" ; Times: 1
+	Query: "genus:Amphiuma specificepithet:means" ; Times: 2
+	Query: "genus:Hypopachus specificepithet:variolosus" ; Times: 1
+	Query: "western painted" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 1182 download events in this period)
+Total number of records downloaded: 2245
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-20 ; Times: 1
+	Date: 2019-06-21 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-06 ; Times: 4
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-04 ; Times: 8
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 2
+	Date: 2019-06-03 ; Times: 7
+	Date: 2019-06-13 ; Times: 1
+	Date: 2019-06-10 ; Times: 1
+	Date: 2019-06-29 ; Times: 2
+	Date: 2019-06-12 ; Times: 3
+	Date: 2019-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "American bullfrog" ; Times: 1
+	Query: "euproctus asper" ; Times: 1
+	Query: "&#34;notophthalmus meridionalis&#34;" ; Times: 1
+	Query: "Calotriton asper" ; Times: 1
+	Query: "(frog)" ; Times: 1
+	Query: "beaver" ; Times: 8
+	Query: "BEAVER" ; Times: 1
+	Query: "(american bullfrog)" ; Times: 1
+	Query: "american bullfrog" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "red fox" ; Times: 1
+	Query: "vntype:specimen genus:Caiman preparations:skull" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "Farancia" ; Times: 1
+	Query: "genus:Anolis" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "phyllomedusa" ; Times: 1
+	Query: "genus:Xenopus" ; Times: 1
+	Query: "salamander" ; Times: 3
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "Oregon spotted frog" ; Times: 1
+	Query: "giant salamander" ; Times: 1
+	Query: "Rana pretiosa" ; Times: 1
+	Query: "micrurus fulvius" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 1
+	Query: "tARICHA GRANULOSA" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 2
+	Query: "Spea intermontana" ; Times: 1
+
+
+End of report.
