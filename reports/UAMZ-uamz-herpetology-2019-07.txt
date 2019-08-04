@@ -1,0 +1,138 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 557
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 63
+	Country: Germany ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 2
+	Date: 2019-07-08 ; Times: 12
+	Date: 2019-07-18 ; Times: 11
+	Date: 2019-07-11 ; Times: 1
+	Date: 2019-07-27 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-22 ; Times: 4
+	Date: 2019-07-01 ; Times: 10
+	Date: 2019-07-13 ; Times: 6
+	Date: 2019-07-03 ; Times: 7
+	Date: 2019-07-28 ; Times: 3
+	Date: 2019-07-30 ; Times: 6
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-14 ; Times: 1
+	Date: 2019-07-06 ; Times: 2
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-17 ; Times: 1
+	Date: 2019-07-23 ; Times: 4
+	Date: 2019-07-31 ; Times: 1
+	Date: 2019-07-29 ; Times: 7
+	Date: 2019-07-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:elegans genus:Arizona stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "caiman skull" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Heterodon specificepithet:nasicus" ; Times: 1
+	Query: "genus:Boa" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 5
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:Toluca" ; Times: 1
+	Query: "genus:Crocodylus mappable:1" ; Times: 2
+	Query: "texas horned lizard" ; Times: 4
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "jarrovi" ; Times: 1
+	Query: "genus:Chrysemys" ; Times: 1
+	Query: "long-toed salamander" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 6
+	Query: "locality:amoles stateprovince:&#34;Queretaro&#34;" ; Times: 2
+	Query: "genus:Anguis" ; Times: 1
+	Query: "specificepithet:hernandesi county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Rana aurora" ; Times: 4
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "tropidodipsas sartori" ; Times: 1
+	Query: "Amphisbaena alba mappable:1" ; Times: 1
+	Query: "crotalus pricei" ; Times: 6
+	Query: "eleutherodactylus cystignathoides" ; Times: 6
+	Query: "specificepithet:bombifrons stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:plethodon" ; Times: 7
+	Query: "genus:Eleutherodactylus specificepithet:pipilans" ; Times: 1
+	Query: "Crotalus Pricei" ; Times: 1
+	Query: "genus:Ameiva specificepithet:ameiva" ; Times: 1
+	Query: "Ambystoma macrodactylum Montana" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 2
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "caiman;skull" ; Times: 3
+	Query: "caiman; skull" ; Times: 2
+	Query: "Anaxyrus hemiophrys" ; Times: 3
+	Query: "genus:Lacerta specificepithet:viridis" ; Times: 1
+	Query: "genus:Terrapene stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 2
+	Query: "A947" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 985 download events in this period)
+Total number of records downloaded: 120
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-18 ; Times: 1
+	Date: 2019-07-26 ; Times: 3
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-12 ; Times: 1
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-29 ; Times: 1
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-31 ; Times: 9
+	Date: 2019-07-15 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:clarki genus:Sceloporus" ; Times: 1
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "specificepithet:Hernandesi genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:magister genus:sceloporus" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "specificepithet:solare genus:phrynosoma" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "charina bottae" ; Times: 1
+	Query: "family:Pythonidae" ; Times: 1
+	Query: "class:Reptilia stateprovince:california" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:lateralis genus:Scincella" ; Times: 1
+	Query: "Scincidae" ; Times: 1
+	Query: "specificepithet:coerulea genus:Elgaria" ; Times: 1
+	Query: "specificepithet:collaris genus:Crotaphytus" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Macroclemys" ; Times: 1
+
+
+End of report.
