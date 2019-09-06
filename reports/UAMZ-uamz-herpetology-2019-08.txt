@@ -1,0 +1,135 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 283
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 67
+	Country: Mexico ; Times: 7
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Barbados ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-07 ; Times: 10
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 5
+	Date: 2019-08-28 ; Times: 4
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-26 ; Times: 13
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-20 ; Times: 8
+	Date: 2019-08-21 ; Times: 1
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-15 ; Times: 12
+	Date: 2019-08-14 ; Times: 4
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 4
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "map turtle" ; Times: 1
+	Query: "sternotherus odoratus wisconsin" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 2
+	Query: "Sistrurus catenatus" ; Times: 6
+	Query: "pyromelana" ; Times: 2
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "Texas horned lizard" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "genus:Masticophis country:&#34;mexico&#34;" ; Times: 1
+	Query: "Hynobius retardatus" ; Times: 2
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "genus:ablepharus" ; Times: 1
+	Query: "genus:Emys preparations:alcohol" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:UAMZ" ; Times: 6
+	Query: "genus:Pituophis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "texas horned lizard" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:perstriatus" ; Times: 1
+	Query: "Aipysurus eydouxii" ; Times: 1
+	Query: "Lithobates catesbeiana mappable:1" ; Times: 8
+	Query: "Rana catesbeianus mappable:1" ; Times: 2
+	Query: "Aipysurus" ; Times: 1
+	Query: "Rubber boa" ; Times: 1
+	Query: "Rana aurora" ; Times: 12
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "Sistrurus catenatus catenatus" ; Times: 10
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "Crotalus Pricei" ; Times: 2
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "Disteira major" ; Times: 1
+	Query: "stained genus:Cryptobranchus" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:pseudoeurycea stateprovince:&#34;puebla&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 6
+	Query: "Barbados" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1034 download events in this period)
+Total number of records downloaded: 185
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-01 ; Times: 2
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-04 ; Times: 2
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+	Date: 2019-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Disteira major" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Hydrophis elegans" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: "genus:Cryptobranchus" ; Times: 1
+	Query: "Aipysurus eydouxii" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "lepidodactylus lugubris" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "aneides lugubris" ; Times: 1
+
+
+End of report.
