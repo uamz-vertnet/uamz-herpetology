@@ -1,0 +1,171 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 1672
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 46
+	Country: Australia ; Times: 15
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 18
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 5
+	Date: 2020-04-03 ; Times: 16
+	Date: 2020-04-05 ; Times: 3
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-06 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-22 ; Times: 12
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 4
+	Date: 2020-04-07 ; Times: 17
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-28 ; Times: 3
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 2
+	Date: 2020-04-09 ; Times: 13
+	Date: 2020-04-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pricei genus:Crotalus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Saskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Texas horned lizard" ; Times: 1
+	Query: "genus:Pituophis class:Reptilia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 5
+	Query: "genus:crotalus distance(location,geopoint(35.10545319110736,-113.95945185038377))&lt;31496" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Harris&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Lissotriton helveticus" ; Times: 2
+	Query: "genus:Ambystoma lengthtype:total length haslength:1" ; Times: 2
+	Query: "specificepithet:pholeter genus:amphiuma" ; Times: 3
+	Query: "Eleutherodactylus pipilans" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "texas horned lizard" ; Times: 1
+	Query: "specificepithet:radix genus:Thamnophis country:&#34;Canada&#34;" ; Times: 4
+	Query: "genus:Hydrophis country:&#34;Philippines&#34; institutioncode:UAMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana year &gt;= 1980 year &lt;= 2020" ; Times: 2
+	Query: "genus:Laticauda country:&#34;Philippines&#34;" ; Times: 5
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "Caiman crocodilus" ; Times: 4
+	Query: "specificepithet:viridis genus:Crotalus country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Hydrophis country:&#34;Philippines&#34;" ; Times: 9
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "Rana temporaria" ; Times: 8
+	Query: "specificepithet:nasicus genus:Heterodon country:&#34;Canada&#34;" ; Times: 1
+	Query: "genus:Craugastor specificepithet:decoratus" ; Times: 2
+	Query: "Farancia" ; Times: 1
+	Query: "Leiopelma hochstetteri" ; Times: 3
+	Query: "gavialis gangeticus" ; Times: 3
+	Query: "specificepithet:elegans genus:Thamnophis class:Reptilia stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:boreas genus:Bufo stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "specificepithet:radix genus:Thamnophis stateprovince:&#34;SAskatchewan&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "tiger salamander" ; Times: 10
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "Anaxyrus hemiophrys" ; Times: 1
+	Query: "specificepithet:radix genus:Thamnophis stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "western toad" ; Times: 2
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 55 (out of 1171 download events in this period)
+Total number of records downloaded: 869
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Turkey ; Times: 1
+	Country: Australia ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 33
+	Country: Spain ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-10 ; Times: 2
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-14 ; Times: 3
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 6
+	Date: 2020-04-20 ; Times: 2
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-02 ; Times: 2
+	Date: 2020-04-03 ; Times: 4
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-29 ; Times: 15
+	Date: 2020-04-08 ; Times: 6
+	Date: 2020-04-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pricei genus:Crotalus" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Calotriton asper" ; Times: 2
+	Query: "bullfrog" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Laticauda country:&#34;Philippines&#34;" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "Thamnophis ordinoides" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon" ; Times: 1
+	Query: "&#34;Iguana iguana&#34;" ; Times: 1
+	Query: "Lissotriton helveticus" ; Times: 2
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 2
+	Query: "Charina bottae" ; Times: 1
+	Query: "pleurodeles waltl" ; Times: 1
+	Query: "genus:Acris" ; Times: 2
+	Query: "specificepithet:hernandesi genus:Phrynosoma" ; Times: 2
+	Query: "specificepithet:diademata genus:Ninia" ; Times: 1
+	Query: "eretmochelys" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:constrictor genus:Coluber" ; Times: 1
+	Query: "vntype:specimen class:Amphibia stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus" ; Times: 1
+	Query: "Rhyacotriton" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "genus:Hydrophis country:&#34;Philippines&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "Anaxyrus boreas" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "specificepithet:JORDANI genus:Plethodon" ; Times: 1
+	Query: "specificepithet:magister genus:Sceloporus" ; Times: 3
+	Query: "specificepithet:melanoleucus genus:Pituophis" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "Rana luteiventris" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon" ; Times: 1
+	Query: "specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "hynobius" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 2
+	Query: "Eleutherodactylus" ; Times: 2
+
+
+End of report.
