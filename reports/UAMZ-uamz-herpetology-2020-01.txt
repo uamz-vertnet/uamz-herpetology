@@ -1,0 +1,175 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 256
+Number of records retrieved in searches: 2031
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 227
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United Kingdom ; Times: 16
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-02 ; Times: 1
+	Date: 2020-01-01 ; Times: 3
+	Date: 2020-01-17 ; Times: 24
+	Date: 2020-01-18 ; Times: 79
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-20 ; Times: 2
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-22 ; Times: 25
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-27 ; Times: 5
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-28 ; Times: 13
+	Date: 2020-01-13 ; Times: 3
+	Date: 2020-01-23 ; Times: 90
+	Date: 2020-01-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ornata genus:Ceratophrys" ; Times: 1
+	Query: "pretiosa Rana" ; Times: 4
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "typhlops braminus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "waltl Pleurodeles" ; Times: 1
+	Query: "Craugastor" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 102
+	Query: "specificepithet:matudai genus:Plectrohyla" ; Times: 1
+	Query: "specificepithet:couchii genus:Scaphiopus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 4
+	Query: "genus:Calyptocephalella specificepithet:gayi" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Craugastor" ; Times: 1
+	Query: "specificepithet:aurora genus:Rana" ; Times: 1
+	Query: "vulgaris Lissotriton" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa" ; Times: 1
+	Query: "specificepithet:heilprini genus:Hypsiboas" ; Times: 1
+	Query: "specificepithet:pretiosa genus:Rana" ; Times: 1
+	Query: "specificepithet:adspersus genus:Pyxicephalus" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina" ; Times: 1
+	Query: "western toad" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:UAMZ" ; Times: 7
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "specificepithet:luteiventris genus:Rana" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "specificepithet:obstetricans genus:Alytes" ; Times: 1
+	Query: "&#34;bd&#34; order:caudata" ; Times: 3
+	Query: "specificepithet:marinus genus:Bufo" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 29
+	Query: "Jalisco class:Reptilia" ; Times: 1
+	Query: "specificepithet:goliath genus:Conraua" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Jalisco&#34;" ; Times: 2
+	Query: "specificepithet:couchii genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:hochstetteri genus:Leiopelma" ; Times: 2
+	Query: "specificepithet:baudinii genus:Smilisca" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla" ; Times: 1
+	Query: "specificepithet:bombina genus:Bombina" ; Times: 1
+	Query: "temporaria Rana" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 1
+	Query: "specificepithet:mazatlanensis genus:Bufo" ; Times: 1
+	Query: "luteiventris Rana" ; Times: 3
+	Query: "specificepithet:marmoreus genus:Bufo" ; Times: 1
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa" ; Times: 1
+	Query: "stateprovince:&#34;Hawaii&#34; (catesbeiana )" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Rana" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Bufo" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UAMZ" ; Times: 4
+	Query: "specificepithet:paradoxa genus:Pseudis" ; Times: 1
+	Query: "specificepithet:pipilans genus:Eleutherodactylus" ; Times: 1
+	Query: "specificepithet:cognatus genus:Bufo" ; Times: 1
+	Query: "stateprovince:&#34;Hawaii&#34; (catesbeiana catesbeianus)" ; Times: 1
+	Query: "specificepithet:valliceps genus:Bufo" ; Times: 1
+	Query: "specificepithet:boettgeri genus:Hymenochirus" ; Times: 1
+	Query: "specificepithet:vastus genus:Osteopilus" ; Times: 1
+	Query: "bufo marinus stateprovince:&#34;hawaii&#34;" ; Times: 3
+	Query: "specificepithet:triseriata genus:Pseudacris" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 1
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;hawaii&#34;" ; Times: 3
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Leopard is" ; Times: 1
+	Query: "specificepithet:nasuta genus:Megophrys" ; Times: 1
+	Query: "specificepithet:variolosus genus:Hypopachus" ; Times: 1
+	Query: "specificepithet:temporaria genus:Rana" ; Times: 1
+	Query: "specificepithet:quercicus genus:Bufo" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 12
+	Query: "salamandra Salamandra" ; Times: 2
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 11
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 4
+	Query: "genus:ambystoma stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo" ; Times: 1
+	Query: "specificepithet:brauni genus:Bufo" ; Times: 1
+	Query: "specificepithet:bicolor genus:Phyllobates" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 47 (out of 1584 download events in this period)
+Total number of records downloaded: 560
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: China ; Times: 3
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-08 ; Times: 2
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 10
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-24 ; Times: 6
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-23 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;bd&#34; order:anura" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Gehyra mutilata" ; Times: 3
+	Query: "Gonatodes albogularis" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;hawaii&#34;" ; Times: 3
+	Query: "class:Amphibia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Chamaeleo chamaeleon" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:rana stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 12
+	Query: "bufo marinus stateprovince:&#34;hawaii&#34;" ; Times: 1
+	Query: "genus:Spea" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "stateprovince:&#34;Hawaii&#34; (catesbeiana )" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 4
+	Query: "specificepithet:marinus genus:bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+
+
+End of report.
