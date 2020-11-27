@@ -1,0 +1,154 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 160
+Number of records retrieved in searches: 3414
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 8
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 79
+	Country: United States ; Times: 64
+	Country: Argentina ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 3
+	Date: 2019-10-22 ; Times: 5
+	Date: 2019-10-02 ; Times: 17
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 29
+	Date: 2019-10-16 ; Times: 7
+	Date: 2019-10-03 ; Times: 47
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-30 ; Times: 10
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-15 ; Times: 18
+	Date: 2019-10-23 ; Times: 10
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-28 ; Times: 4
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "boa constrictor mappable:1" ; Times: 1
+	Query: "northern leopard frog" ; Times: 13
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 4
+	Query: "pyromelana" ; Times: 1
+	Query: "Calyptocephalella gayi" ; Times: 1
+	Query: "(Rana pipiens) Canada country:&#34;Canada&#34;" ; Times: 3
+	Query: "rana pipiens country:&#34;Canada&#34;" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "bufo kellogi sinaloa" ; Times: 1
+	Query: "locality:irvine stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 2
+	Query: "Ichthyosaura alpestris" ; Times: 1
+	Query: "iguana iguana sinaloa" ; Times: 1
+	Query: "((Rana pipiens) Canada)" ; Times: 3
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UAMZ" ; Times: 3
+	Query: "neotenic genus:Ambystoma" ; Times: 4
+	Query: "lampropeltis sinaloa" ; Times: 2
+	Query: "(rana pipiens) canada" ; Times: 2
+	Query: "(Rana pipiens) Canada vntype:specimen" ; Times: 1
+	Query: "Anaxyrus americanus mappable:1" ; Times: 12
+	Query: "bufo marmoreus sinaloa" ; Times: 1
+	Query: "Rana pipiens country:&#34;Canada&#34;" ; Times: 6
+	Query: "order:Squamata locality:Gainesville" ; Times: 1
+	Query: "ctenosaura pectinata sinaloa" ; Times: 1
+	Query: "bufo marinus sinaloa" ; Times: 1
+	Query: "leptophis diplotropis sinaloa" ; Times: 1
+	Query: "alpestris Ichthyosaura" ; Times: 2
+	Query: "sylvaticus Lithobates" ; Times: 2
+	Query: "bufo mazatlanensis sinaloa" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "leptodactylus sinaloa" ; Times: 2
+	Query: "Osteopilus vastus" ; Times: 1
+	Query: "(rana pipiens) Canada" ; Times: 1
+	Query: "bufo sinaloa" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;Canada&#34;" ; Times: 10
+	Query: "Sistrurus catenatus 2017" ; Times: 1
+	Query: "painted turtle" ; Times: 2
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 4
+	Query: "reptile distance(location,geopoint(31.74944477985944,-115.78780921515477))&lt;100000" ; Times: 1
+	Query: "Sistrurus catenatus 2018" ; Times: 1
+	Query: "Leiopelma hochstetteri" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "iguana sinaloa" ; Times: 1
+	Query: "masticophis bilineatus sinaloa" ; Times: 1
+	Query: "Conraua goliath" ; Times: 3
+	Query: "rana pipiens country:&#34;CANADA&#34;" ; Times: 1
+	Query: "Ceratophrys ornata" ; Times: 1
+	Query: "(Rana pipiens) Canada" ; Times: 23
+	Query: "(Rana pipiens) country:&#34;canada&#34;" ; Times: 2
+	Query: "country:&#34;Canada&#34; ((Rana pipiens) Canada)" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 1
+	Query: "ctenosaura sinaloa" ; Times: 2
+	Query: "rana pipiens Canada" ; Times: 1
+	Query: "Draco volans" ; Times: 1
+	Query: "macrodactylum Ambystoma" ; Times: 20
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1308 download events in this period)
+Total number of records downloaded: 5190
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Unknown ; Times: 17
+	Country: Canada ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 2
+	Date: 2019-10-23 ; Times: 18
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-03 ; Times: 15
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "northern leopard frog" ; Times: 2
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "(Rana pipiens) Canada country:&#34;Canada&#34;" ; Times: 1
+	Query: "Bufonidae vntype:specimen" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "eretmochelys imbricata" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "genus:Ceratophrys" ; Times: 2
+	Query: "(Rana pipiens) Canada" ; Times: 9
+	Query: "reptilia stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "Rana pipiens country:&#34;Canada&#34;" ; Times: 2
+	Query: "gonatodes albogularis" ; Times: 1
+	Query: "Anaxyrus fowleri" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;Canada&#34;" ; Times: 2
+	Query: "Leptophis diplotropis" ; Times: 2
+	Query: "reptile distance(location,geopoint(31.59984735526638,-115.65597327765477))&lt;152164.6603398149" ; Times: 2
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "reptile baja california distance(location,geopoint(31.279965062709955,-115.82428755317488))&lt;100000" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "(Rana pipiens) country:&#34;canada&#34;" ; Times: 1
+	Query: "rana pipiens country:&#34;CANADA&#34;" ; Times: 1
+	Query: "genus:Phyllomedusa" ; Times: 2
+	Query: "genus:bufo stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:junaluska stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "rana pipiens Canada" ; Times: 1
+
+
+End of report.
