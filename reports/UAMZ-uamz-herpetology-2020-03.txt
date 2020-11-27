@@ -1,0 +1,143 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 297
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Ukraine ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Cuba ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 3
+	Date: 2020-03-06 ; Times: 4
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-10 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 4
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-03 ; Times: 3
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-13 ; Times: 3
+	Date: 2020-03-29 ; Times: 4
+	Date: 2020-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "recordedby:Gaige" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;kern&#34;" ; Times: 1
+	Query: "Texas horned lizard" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "specificepithet:bilineatus genus:Masticophis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Converse&#34; stateprovince:&#34;Wyoming&#34; AND (NOT PDBD)" ; Times: 2
+	Query: "braminus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Northern Leopard Frog" ; Times: 1
+	Query: "Dicamptodon canada" ; Times: 2
+	Query: "sceloporus scalaris" ; Times: 1
+	Query: "texas horned lizard" ; Times: 1
+	Query: "marmoreus" ; Times: 1
+	Query: "aneides aeneus" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "class:amphibia country:&#34;united states&#34; institutioncode:UAMZ" ; Times: 1
+	Query: "hemiophrys" ; Times: 1
+	Query: "genus:Diadophis stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Coniophanes fissidens" ; Times: 1
+	Query: "Hypsiboas heilprini" ; Times: 3
+	Query: "genus:Sistrurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "genus:Micrurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34;" ; Times: 4
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: "necturus maculosus AND (canada)" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 853 download events in this period)
+Total number of records downloaded: 217
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: Cuba ; Times: 2
+	Country: Spain ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-26 ; Times: 3
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 1
+	Date: 2020-03-25 ; Times: 4
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-10 ; Times: 3
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 2
+	Date: 2020-03-16 ; Times: 1
+	Date: 2020-03-04 ; Times: 3
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 4
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-02 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "pseudotriton" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "genus:Lichanura" ; Times: 1
+	Query: "genus:Agkistrodon" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "amphiuma pholeter" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:Alligator country:&#34;United States&#34;" ; Times: 1
+	Query: "texas horned lizard" ; Times: 1
+	Query: "Ambystoma mavortium" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:means genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:pholeter genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "genus:Masticophis" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "Osteopilus vastus" ; Times: 1
+	Query: "specificepithet:palustris family:Ranidae" ; Times: 1
+	Query: "genus:Amphiuma" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "reptile (puebla)" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis" ; Times: 1
+	Query: "genus:Cemophora" ; Times: 1
+	Query: "Hypsiboas heilprini" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "calotriton" ; Times: 1
+	Query: "specificepithet:clarkii genus:Pseudacris" ; Times: 1
+	Query: "Crotalus" ; Times: 1
+	Query: "Atelopus varius" ; Times: 1
+	Query: "dicamptodon" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "genus:Farancia" ; Times: 1
+	Query: "specificepithet:intermedia genus:Siren" ; Times: 1
+
+
+End of report.
