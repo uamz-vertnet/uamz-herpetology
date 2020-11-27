@@ -1,0 +1,125 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 808
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 37
+	Country: Belgium ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 6
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-21 ; Times: 6
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-06 ; Times: 8
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-09 ; Times: 2
+	Date: 2020-02-28 ; Times: 4
+	Date: 2020-02-29 ; Times: 5
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "bullsnake" ; Times: 1
+	Query: "genus:Ambystoma lifestage:egg" ; Times: 1
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:UAMZ" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UAMZ" ; Times: 1
+	Query: "paramesotriton" ; Times: 3
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "Sistrurus miliarius" ; Times: 2
+	Query: "bullfrog genus:lithobates stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "northern leopard frog" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bullfrog stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "genus:ambystoma lifestage:egg" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "horned lizard" ; Times: 1
+	Query: "rosy boa" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lithobates catesbeiana mappable:1" ; Times: 1
+	Query: "california giant salamander" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Sinaloa&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:pholeter genus:Amphiuma" ; Times: 1
+	Query: "genus:Craugastor country:&#34;Mexico&#34;" ; Times: 3
+	Query: "order:Squamata stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "preparations:skull institutioncode:UAMZ" ; Times: 1
+	Query: "eleutherodactylus cystignathoides" ; Times: 1
+	Query: "institutioncode:UAMZ" ; Times: 2
+	Query: "Lithobates catesbeiana" ; Times: 2
+	Query: "rubber boa" ; Times: 2
+	Query: "crotalus pricei" ; Times: 6
+	Query: "genus:Aneides stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "stained genus:Cryptobranchus" ; Times: 1
+	Query: "columbia spotted frog" ; Times: 1
+	Query: "genus:lithobates stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 2
+	Query: "tiger salamander" ; Times: 2
+	Query: "Eleutherodactylus cystignathoides" ; Times: 1
+	Query: "locality:San Vicente " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1023 download events in this period)
+Total number of records downloaded: 377
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Belgium ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-28 ; Times: 2
+	Date: 2020-02-29 ; Times: 2
+	Date: 2020-02-18 ; Times: 3
+	Date: 2020-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Urosaurus graciosus" ; Times: 1
+	Query: "class:Amphibia country:&#34;México&#34;" ; Times: 2
+	Query: "genus:Ambystoma lifestage:larva" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Spea intermontana&#34;" ; Times: 1
+	Query: "Rana catesbeiana" ; Times: 1
+	Query: "specificepithet:lecontei genus:Rhinocheilus" ; Times: 1
+	Query: "Bolitoglossa" ; Times: 1
+	Query: "west java" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Tamaulipas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus" ; Times: 1
+	Query: "Taricha" ; Times: 1
+	Query: "Anguidae" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "louisiana" ; Times: 1
+	Query: "genus:Craugastor country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
