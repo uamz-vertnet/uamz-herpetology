@@ -1,0 +1,166 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 66
+Number of records retrieved in searches: 340
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: Luxembourg ; Times: 2
+	Country: United States ; Times: 43
+	Country: Sweden ; Times: 9
+	Country: Germany ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 4
+	Date: 2020-05-24 ; Times: 1
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-23 ; Times: 6
+	Date: 2020-05-22 ; Times: 12
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-31 ; Times: 1
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-18 ; Times: 5
+	Date: 2020-05-07 ; Times: 6
+	Date: 2020-05-01 ; Times: 5
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-11 ; Times: 3
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 7
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-16 ; Times: 3
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "acris gryllus holmes" ; Times: 1
+	Query: "leiopelma hochstetteri" ; Times: 2
+	Query: "american toad (Tennessee)" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Charina bottae stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Sphenodon" ; Times: 5
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Mohave&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "genus:Rana specificepithet:boylii year&lt;=1970" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "american toad vntype:specimen (Tennessee)" ; Times: 1
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1980" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 10
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 2
+	Query: "specificepithet:coerulea country:&#34;canada&#34;" ; Times: 2
+	Query: "painted turtle" ; Times: 1
+	Query: "genus:Rana specificepithet:boylii stateprovince:california year&lt;=1970" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 2
+	Query: "specificepithet:pyromelana genus:Lampropeltis county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "western toad" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "crotalus pricei" ; Times: 3
+	Query: "Charina stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:pyromelana genus:Lampropeltis stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Ommatotriton" ; Times: 1
+	Query: "genus:heterodon stateprovince:&#34;Wyoming&#34;" ; Times: 8
+	Query: "genus:elgaria country:&#34;canada&#34;" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "genus:Caiman family:Alligatoridae" ; Times: 1
+	Query: "Scaphiopus bombifrons" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 53 (out of 1106 download events in this period)
+Total number of records downloaded: 634
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 23
+	Country: Australia ; Times: 5
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 12
+	Country: Unknown ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-24 ; Times: 5
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-14 ; Times: 2
+	Date: 2020-05-31 ; Times: 3
+	Date: 2020-05-18 ; Times: 4
+	Date: 2020-05-19 ; Times: 3
+	Date: 2020-05-06 ; Times: 5
+	Date: 2020-05-01 ; Times: 1
+	Date: 2020-05-08 ; Times: 3
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-05 ; Times: 14
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "EURYCEA LONGICAUDA" ; Times: 1
+	Query: "spotted frog" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "Lithobates" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "order:Squamata country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lissotriton helveticus" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "continent:Europe" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "gymnophiona" ; Times: 1
+	Query: "vntype:specimen order:Squamata stateprovince:&#34;São Paulo&#34; country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:latirostris genus:Caiman family:Alligatoridae" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Thamnophis sirtalis" ; Times: 1
+	Query: "amphibia oregon" ; Times: 1
+	Query: "necturus maculosus" ; Times: 1
+	Query: "Dicamptodon" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "NOTOPHTHALMUS VIRIDESCENS" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 3
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "ctenosaura pectinata" ; Times: 1
+	Query: "Paramesotriton" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "Cynops" ; Times: 1
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Ommatotriton" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Cynops ensicauda" ; Times: 1
+	Query: "Notophthalmus viridescens" ; Times: 3
+	Query: "genus:Triturus family:salamandridae" ; Times: 1
+	Query: "Lissotriton" ; Times: 1
+
+
+End of report.
