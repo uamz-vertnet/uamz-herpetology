@@ -1,0 +1,115 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 759
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: Brazil ; Times: 9
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 12
+	Date: 2019-12-27 ; Times: 4
+	Date: 2019-12-26 ; Times: 2
+	Date: 2019-12-20 ; Times: 3
+	Date: 2019-12-30 ; Times: 3
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-18 ; Times: 3
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-05 ; Times: 2
+	Date: 2019-12-13 ; Times: 2
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 3
+	Query: "specificepithet:bombifrons genus:Spea county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "specificepithet:aspera genus:Phrynoidis" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 5
+	Query: "specificepithet:chondrostega genus:Chiropterotriton country:&#34;México&#34;" ; Times: 1
+	Query: "17045" ; Times: 1
+	Query: "genus:Leiopelma" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 1
+	Query: "hemidactylus mexico mexico" ; Times: 1
+	Query: "specificepithet:hemiophrys genus:Anaxyrus" ; Times: 2
+	Query: "leptodeira maculata mexico" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 3
+	Query: "Varanus timorensis" ; Times: 3
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo" ; Times: 1
+	Query: "LAMPROPELTIS PyROMELANA" ; Times: 1
+	Query: "great plains toad" ; Times: 1
+	Query: "reptilia morelos" ; Times: 1
+	Query: "smilisca baudinii mexico" ; Times: 1
+	Query: "specificepithet:alvarius genus:Incilius" ; Times: 2
+	Query: "specificepithet:melanostictus genus:Duttaphrynus" ; Times: 2
+	Query: "specificepithet:Plethodon cinereus" ; Times: 1
+	Query: "Coluber constrictor texas" ; Times: 1
+	Query: "specificepithet:curtus genus:Python" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 596 download events in this period)
+Total number of records downloaded: 259
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Belgium ; Times: 5
+	Country: South Korea ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 5
+	Date: 2019-12-27 ; Times: 1
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-10 ; Times: 4
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-17 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+	Date: 2019-12-16 ; Times: 2
+	Date: 2019-12-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tomistoma schlegelii" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:chondrostega genus:Chiropterotriton country:&#34;México&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "cane toad" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Varanus timorensis" ; Times: 1
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Desmognathus" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "specificepithet:dimidiatus genus:Chiropterotriton country:&#34;México&#34;" ; Times: 1
+
+
+End of report.
