@@ -1,0 +1,128 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 49
+Number of records retrieved in searches: 174
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 44
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Ireland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-17 ; Times: 4
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-15 ; Times: 2
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-12 ; Times: 7
+	Date: 2020-08-11 ; Times: 2
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-18 ; Times: 4
+	Date: 2020-08-01 ; Times: 2
+	Date: 2020-08-02 ; Times: 1
+	Date: 2020-08-03 ; Times: 2
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-08 ; Times: 3
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-22 ; Times: 2
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-20 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pricei genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 3
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UAMZ" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 2
+	Query: "specificepithet:albogularis genus:Gonatodes institutioncode:UAMZ" ; Times: 5
+	Query: "genus:aneides stateprovince:&#34;Alabama&#34;" ; Times: 3
+	Query: "Texas specificepithet:rhombifer genus:Nerodia" ; Times: 1
+	Query: "sibon stateprovince:&#34;jalisco&#34;" ; Times: 1
+	Query: "triturus viridescens" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "A2672" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "Prairie Rattlesnake" ; Times: 2
+	Query: "vipera" ; Times: 1
+	Query: "family:sirenidae stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Texas specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "american toad" ; Times: 4
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "Leptodeira septentrionalis septentrionalis" ; Times: 1
+	Query: "family:Colubridae locality:Chiricahua county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "farancia" ; Times: 1
+	Query: "specificepithet:fulvius genus:Micrurus county:&#34;Alachua&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hellbender" ; Times: 2
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "genus:Cerberus order:Squamata" ; Times: 2
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "Duchess" ; Times: 1
+	Query: "leiopelma" ; Times: 1
+	Query: "genus:plethodon stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "ELEUTHERODACTYLUS CYSTIGNATHOIDEs" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 756 download events in this period)
+Total number of records downloaded: 400
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Japan ; Times: 1
+	Country: China ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 3
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-17 ; Times: 3
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 1
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-20 ; Times: 3
+	Date: 2020-08-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Testudines" ; Times: 2
+	Query: "order:Squamata" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "genus:Cerberus order:Squamata" ; Times: 1
+	Query: "Texas specificepithet:rhombifer genus:Nerodia" ; Times: 1
+	Query: "Texas specificepithet:obsoleta genus:Elaphe" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Laticauda colubrina" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; (siren)" ; Times: 1
+	Query: "coniophanes fissidens" ; Times: 1
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "hynobiidae" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "ninia diademata" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+
+
+End of report.
