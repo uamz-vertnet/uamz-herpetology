@@ -1,0 +1,117 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 357
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 4
+	Country: Panama ; Times: 1
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 22
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-15 ; Times: 4
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 4
+	Date: 2020-09-10 ; Times: 2
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-26 ; Times: 8
+	Date: 2020-09-18 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-25 ; Times: 2
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gavialis" ; Times: 3
+	Query: "genus:Charina stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UAMZ" ; Times: 2
+	Query: "Crotalus pricei arizona" ; Times: 1
+	Query: "ualberta" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "specificepithet:aeneus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 4
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "Sphenodon" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Hypopachus variolosus México" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "sceloporus aeneus" ; Times: 2
+	Query: "genus:cerberus order:Squamata" ; Times: 2
+	Query: "aipysurus eydouxii" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Milk snake" ; Times: 1
+	Query: "specificepithet:subrubrum stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "caiman crocodilus" ; Times: 1
+	Query: "allende" ; Times: 2
+	Query: "Adelphicos veraepacis" ; Times: 1
+	Query: "Anaxyrus hemiophrys" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 976 download events in this period)
+Total number of records downloaded: 499
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 2
+	Date: 2020-09-17 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "atelopus varius" ; Times: 2
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "&#34;Bufo boreas&#34; vntype:specimen stateprovince:&#34;Colorado&#34; year &gt;= 1900 year &lt;= 2000" ; Times: 1
+	Query: "acris" ; Times: 1
+	Query: "hyla gratiosa" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 2
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "ambystoma opacum" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "leptodactylidae" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Montana&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "hyla squirella" ; Times: 1
+	Query: "Bufo boreas vntype:specimen stateprovince:&#34;Colorado&#34; country:&#34;United States&#34; year &gt;= 1900 year &lt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hypopachus variolosus México" ; Times: 1
+
+
+End of report.
