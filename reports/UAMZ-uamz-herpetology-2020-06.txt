@@ -1,0 +1,63 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 211
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Switzerland ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-25 ; Times: 2
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-10 ; Times: 9
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus pricei" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "oregon spotted frog" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 2
+	Query: "tiger salamander" ; Times: 1
+	Query: "genus:elgaria country:&#34;canada&#34;" ; Times: 2
+	Query: "ball python" ; Times: 2
+	Query: "rana temporaria" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: "rana septentrionalis" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 11
+	Query: "Sistrurus miliarius" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 474 download events in this period)
+Total number of records downloaded: 429
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "bullfrog" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "tiger salamander" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+
+
+End of report.
