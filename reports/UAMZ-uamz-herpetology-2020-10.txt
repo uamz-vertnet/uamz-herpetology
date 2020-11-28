@@ -1,0 +1,120 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 389
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 69
+	Country: Unknown ; Times: 6
+	Country: United States ; Times: 21
+	Country: Guatemala ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 3
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-26 ; Times: 5
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-01 ; Times: 8
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-30 ; Times: 21
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 1
+	Date: 2020-10-06 ; Times: 5
+	Date: 2020-10-05 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-29 ; Times: 49
+
+List of queries that retrieved data from the resource: 
+	Query: "mappable:1 scientificname:Boa constrictor" ; Times: 1
+	Query: "specificepithet:neomexicanus genus:Plethodon" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UAMZ" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "institutioncode:uamz" ; Times: 1
+	Query: "llano grande" ; Times: 1
+	Query: "ciudad hidalgo" ; Times: 1
+	Query: "genus:Aneides specificepithet:aeneus" ; Times: 2
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34;" ; Times: 2
+	Query: "Craugastor decoratus" ; Times: 9
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 7
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "Craugastor mexicanus" ; Times: 1
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 2
+	Query: "genus:crotalus county:&#34;mohave&#34; specificepithet:viridis" ; Times: 1
+	Query: "hyla eximia" ; Times: 4
+	Query: "Crotalus pricei" ; Times: 2
+	Query: "specificepithet:boreas stateprovince:&#34;alaska&#34; year &gt;= 1951 year &lt;= 2020" ; Times: 3
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "tarentola mauritanica" ; Times: 1
+	Query: "genus:crotalus county:&#34;mohave&#34;" ; Times: 1
+	Query: "Craugastoridae" ; Times: 1
+	Query: "Eleutherodactylus cystignathoides" ; Times: 13
+	Query: "Bolitoglossa platydactyla" ; Times: 40
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1521 download events in this period)
+Total number of records downloaded: 1051
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Samoa ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 2
+	Date: 2020-10-08 ; Times: 2
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 7
+	Date: 2020-10-13 ; Times: 1
+	Date: 2020-10-10 ; Times: 1
+	Date: 2020-10-02 ; Times: 1
+	Date: 2020-10-30 ; Times: 1
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-06 ; Times: 1
+	Date: 2020-10-05 ; Times: 3
+	Date: 2020-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Anolis tropidonotus" ; Times: 1
+	Query: "order:caudata distance(location,geopoint(32.68200357712817,-89.55322265625))&lt;161220" ; Times: 2
+	Query: "spea bombifrons" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;mississippi&#34;" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "specificepithet:marinus genus:Bufo stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "&#34;Duttaphrynus melanostictus&#34;" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana country:&#34;Canada&#34;" ; Times: 4
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "plethodon vehiculum" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "Chionactis occipitalis" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "order:caudata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+	Query: "Hylarana" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+
+
+End of report.
