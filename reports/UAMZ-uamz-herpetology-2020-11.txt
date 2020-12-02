@@ -1,0 +1,118 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 84
+Number of records retrieved in searches: 246
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 9
+	Country: Germany ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 49
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-23 ; Times: 2
+	Date: 2020-11-24 ; Times: 4
+	Date: 2020-11-25 ; Times: 3
+	Date: 2020-11-08 ; Times: 10
+	Date: 2020-11-09 ; Times: 9
+	Date: 2020-11-06 ; Times: 7
+	Date: 2020-11-07 ; Times: 9
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-10 ; Times: 5
+	Date: 2020-11-01 ; Times: 2
+	Date: 2020-11-27 ; Times: 1
+	Date: 2020-11-11 ; Times: 15
+	Date: 2020-11-29 ; Times: 2
+	Date: 2020-11-14 ; Times: 1
+	Date: 2020-11-12 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana catesbeiana stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 5
+	Query: "scientificname:Hypopachus variolosus" ; Times: 1
+	Query: "Scaphiopus couchii" ; Times: 4
+	Query: "order:Squamata stateprovince:&#34;Tamaulipas&#34;" ; Times: 2
+	Query: "scientificname:Chiropterotriton dimidiatus" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 13
+	Query: "specificepithet:grammicus genus:Sceloporus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "scientificname:Lithobates catesbeianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:Opheodrys" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 2
+	Query: "Craugastor mexicanus" ; Times: 6
+	Query: "Rana temporaria" ; Times: 2
+	Query: "Hypopachus variolosus" ; Times: 2
+	Query: "Vipera berus" ; Times: 2
+	Query: "Rana catesbeianus" ; Times: 3
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "scientificname:Pseudoeurycea cephalica" ; Times: 1
+	Query: "scientificname:Hyla eximia" ; Times: 1
+	Query: "genus:Cerberus" ; Times: 1
+	Query: "scientificname:Scaphiopus couchii" ; Times: 3
+	Query: "crotalus pricei" ; Times: 8
+	Query: "pseudoeurycea cephalica" ; Times: 12
+	Query: "scientificname:Smilisca baudinii" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; (getula)" ; Times: 7
+	Query: "genus:Crotalus stateprovince:&#34;Tamaulipas&#34;" ; Times: 1
+	Query: "A2458" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 842 download events in this period)
+Total number of records downloaded: 586
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-24 ; Times: 1
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-08 ; Times: 1
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-06 ; Times: 3
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-16 ; Times: 1
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-12 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-26 ; Times: 3
+	Date: 2020-11-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana catesbeiana stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 1
+	Query: "plethodon neomexicanus" ; Times: 3
+	Query: "specificepithet:viridis genus:crotalus year &gt;= 1970 year &lt;= 2020" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "prairie rattlesnake" ; Times: 1
+	Query: "vntype:specimen specificepithet:catesbeianus genus:Lithobates" ; Times: 1
+	Query: "opheodrys aestivus" ; Times: 1
+	Query: "crotalus viridis" ; Times: 2
+	Query: "Anaxyrus americanus americanus" ; Times: 1
+	Query: "genus:Anolis stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Phrynosoma hernandesi" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "Desmognathus ochrophaeus" ; Times: 1
+	Query: "Eleutherodactylus planirostris" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "genus:Cerberus" ; Times: 1
+	Query: "Desmognathus fuscus" ; Times: 1
+
+
+End of report.
