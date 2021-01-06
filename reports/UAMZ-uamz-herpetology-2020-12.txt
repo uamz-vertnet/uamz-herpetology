@@ -1,0 +1,117 @@
+Report for Institution Code UAMZ, Resource uamz-herpetology
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 146
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 4
+	Country: Spain ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-20 ; Times: 1
+	Date: 2020-12-23 ; Times: 5
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-10 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-03 ; Times: 5
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-16 ; Times: 2
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:valliceps county:&#34;Harris&#34;" ; Times: 1
+	Query: "Pseudepidalea viridis" ; Times: 2
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Calyptocephalella specificepithet:gayi" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "arizona glossy" ; Times: 1
+	Query: "Gilberti inyo county" ; Times: 1
+	Query: "Craugastoridae" ; Times: 2
+	Query: "stateprovince:&#34;Florida&#34; (getula)" ; Times: 2
+	Query: "Sphenodon punctatus" ; Times: 3
+	Query: "Salamandra atra" ; Times: 1
+	Query: "Plethodon neomexicanus" ; Times: 2
+	Query: "Prairie rattlesnake" ; Times: 1
+	Query: "northern leopard frog" ; Times: 1
+	Query: "specificepithet:perstriatus genus:Notophthalmus" ; Times: 1
+	Query: "Litoria caerulea" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 54 (out of 705 download events in this period)
+Total number of records downloaded: 598
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 9
+	Country: United States ; Times: 27
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-23 ; Times: 9
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-02 ; Times: 24
+	Date: 2020-12-18 ; Times: 2
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-14 ; Times: 2
+	Date: 2020-12-15 ; Times: 5
+	Date: 2020-12-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Alytes obstetricans" ; Times: 1
+	Query: "Lepidodactylus lugubris" ; Times: 1
+	Query: "Calotriton asper" ; Times: 1
+	Query: "Incilius alvarius" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "bolitoglossa rufescens" ; Times: 1
+	Query: "ambystoma talpoideum" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 2
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:valliceps stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "eurycea longicauda" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Salamandra salamandra" ; Times: 2
+	Query: "aneides ferreus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Rana temporaria" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 8
+	Query: "Tarentola mauritanica" ; Times: 2
+	Query: "class:Reptilia country:Brazil" ; Times: 2
+	Query: "specificepithet:boylii genus:rana" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Triturus marmoratus" ; Times: 2
+	Query: "notophthalmus perstriatus" ; Times: 1
+	Query: "Sphenodon punctatus" ; Times: 1
+	Query: "(Hemidactylium scutatum)" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Plethodon Cinereus" ; Times: 1
+	Query: "Ceratophrys calcarata" ; Times: 3
+	Query: "Pseudis paradoxa" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "genus:crotalus family:viperidae country:&#34;México&#34; continent:America" ; Times: 1
+	Query: "genus:Crotalus family:Viperidae country:&#34;Mexico&#34; continent:America" ; Times: 1
+	Query: "plethodon jordani" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "pseudotriton ruber" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+
+
+End of report.
